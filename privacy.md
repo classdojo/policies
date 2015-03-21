@@ -17,7 +17,7 @@ Last updated: March 21, 2015, Effective April 21, 2015
 
 Quick Reference
 
-	- [Overview of Privacy Policy](#OverviewOfPrivacyPolicy)
+- [Overview of Privacy Policy](#Overview-Of-Privacy-Policy)
 	- [What is ClassDojo?](#)
 	- [How Does ClassDojo Protect Children’s Personal Information?](#)
 	- [What Information Does ClassDojo Collect?](#)
