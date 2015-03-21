@@ -1,6 +1,5 @@
 ClassDojo's Terms of Service and Privacy Policy
 =====================
-----------
 
 At ClassDojo, we believe in providing the best privacy, control, and security to our community. To that end, our Terms of Service and Privacy Policy will both be hosted here. In doing so, anyone can see all the changes our team has made from prior versions of our policies.
 
