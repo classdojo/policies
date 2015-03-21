@@ -10,6 +10,7 @@ Last updated: March 21, 2015, Effective April 21, 2015
 -------
 
 Quick Reference
+
 [Agreeing to our Terms](#agreeing-to-our-terms)
 [Your Information and Content](#your-information-and-content)
 [Privacy](#privacy)
