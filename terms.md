@@ -10,7 +10,24 @@ Last updated: March 21, 2015, Effective April 21, 2015
 -------
 
 Quick Reference
-
+[Agreeing to our Terms](#agreeing-to-our-terms)
+[Your Information and Content](#your-information-and-content)
+[Privacy](#privacy)
+[Additional Terms by User Type](#additional-terms-by-user-type)
+[FERPA](#ferpa)
+[ClassDojo Technology](#classdojo-technology)
+[Social Media](#social-media)
+[Modification to Agreement](#modification-to-agreement)
+[Your Warranty](#your-warranty)
+[Restrictions](#restrictions)
+[WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY](#warranty-disclaimer-and-limitation-of-liability)
+[Registration and Security](#registration-and-security)
+[Indemnity](#indemnity)
+[Copyright Dispute Policy](#copyright-dispute-policy)
+[Third Parties and User Interactions](#third-parties-and-user-interactions)
+[Termination](#termination)
+[Dispute Resolution](#dispute-resolution)
+[Miscellaneous](#miscellaneous)
 
 ## Agreeing to our Terms
 
