@@ -1,5 +1,5 @@
 
-# PRIVACY POLICY
+# ClassDojo Privacy Policy
 
 
 As we help foster the most important relationships in education - between teachers, parents, and students - your privacy is incredibly important to us at Class Twist, Inc. (“ClassDojo,” “we,” “us,” “our,” and our subsidiaries or affiliates). 
