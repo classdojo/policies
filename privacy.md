@@ -16,7 +16,28 @@ Last updated: March 21, 2015, Effective April 21, 2015
 -------
 
 Quick Reference
-[TOC]
+	- [Overview of Privacy Policy](#)
+	- [What is ClassDojo?](#)
+	- [How Does ClassDojo Protect Children’s Personal Information?](#)
+	- [What Information Does ClassDojo Collect?](#)
+		- [Information You Provide to Us](#)
+		- [Information Collected Automatically](#)
+	- [How Does ClassDojo Use the Information it Collects?](#)
+	- [How Does ClassDojo Protect and Secure My Information?](#)
+	- [ClassDojo’s Commitments to Providing Transparency and Choice](#)
+		- [Can I Opt-out of Providing Information?](#)
+		- [How Can I Access and Manage My Personal Information?](#)
+		- [How Can I Delete my Account?](#)
+	- [How Long Does ClassDojo Keep Information About Me?](#)
+	- [What Communications Will I Receive from ClassDojo?](#)
+	- [Social Media Features/Widgets](#)
+	- [How Will ClassDojo Notify Me of Changes to this Policy?](#)
+	- [What if I’m not in the U.S.?](#)
+	- [EU and Swiss Safe Harbor](#)
+	- [Canada](#)
+	- [California Privacy Disclosures](#)
+	- [How to Contact ClassDojo With Questions](#)
+	- [Further Privacy and Security Resources](#)
 
 ## Overview of Privacy Policy
 
