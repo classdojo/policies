@@ -6,6 +6,6 @@ At ClassDojo, we believe in providing the best privacy, control, and security to
 
 > **Quick guide**
 
-> - For a quick overview of our practices and how we practice Privacy By Design, visit the [ClassDojo Privacy and Safety Center](www.classdojo.com)
+> - For a quick overview of our practices and how we practice Privacy By Design, visit the [ClassDojo Privacy and Safety Center](https://www.classdojo.com/trustcenter)
 > - Visit our [Terms of Service](https://www.classdojo.com/terms) or [Privacy Policy](https://www.classdojo.com/privacy) on our ClassDojo website for easy reading with short summaries of each section.
 > - To read and see changes from prior versions, visit our [Terms of Service](link) and [Privacy Policy](link) on GitHub.
