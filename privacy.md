@@ -242,14 +242,14 @@ As you can see, we try to be transparent about what information we collect, so t
 > 
 > ClassDojo aims to be a very transparent company, so that you can make meaningful choices when it comes to your information and how it is used.
 
-## Can I Opt-out of Providing Information?
+### Can I Opt-out of Providing Information?
 You may, of course, decline to share personal information with us or even block all cookies. However, it’s important to remember that many of our ClassDojo’s features may not be accessible, or may not function properly - for example, we may not be able to remember your language preferences for you.
 
 > Basically,
 > 
 > You can always opt-out of providing us information, though we may not be able to provide you with all of the features or functionality of ClassDojo.
 
-## How Can I Access and Manage My Personal Information?
+### How Can I Access and Manage My Personal Information?
 
 ClassDojo aims to provide you with easy access to any personal information we have collected about you. If that information is incorrect, we give you ways to update it, or to delete it, unless we have to keep that information for legitimate business (e.g., we need at least an email address for your account) or legal purposes. 
 
@@ -263,7 +263,7 @@ ClassDojo aims to provide you with easy access to any personal information we ha
 > 
 > You can always access and manage your personal information through your ClassDojo account or by contacting us.
 
-## How Can I Delete my Account?
+### How Can I Delete my Account?
 
 We hope you’ll love using ClassDojo, and won’t delete your account! However, if for some reason you ever want to delete your account (or if you are a parent of a child, your child’s account), you can do that at any time by contacting us at privacy@classdojo.com. If you are a parent or teacher using the ClassDojo Website, you may also delete your account by logging into your account and accessing your account settings page. 
 
