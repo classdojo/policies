@@ -1,5 +1,5 @@
 
-# TERMS OF SERVICE
+# ClassDojo Terms of Service
 
 The following are the terms of service (“Terms of Service”) that define the relationship between Class Twist, Inc. (doing business as ClassDojo (“Company,” “ClassDojo,” “we,” or “us”)) and you and govern your use of ClassDojo’s services.
 
