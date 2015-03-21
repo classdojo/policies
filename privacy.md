@@ -15,7 +15,7 @@ Last updated: March 21, 2015, Effective April 21, 2015
 
 -------
 
-Quick Reference
+## Quick Reference
 
 - [Overview of Privacy Policy](#overview-of-privacy-policy)
 - [What is ClassDojo?](#what-is-classdojo?)
