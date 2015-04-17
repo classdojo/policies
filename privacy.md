@@ -6,13 +6,15 @@ Last updated: March 21, 2015, Effective April 21, 2015
 ClassDojo’s mission is to build the most important relationships in education — the ones between teachers, parents, and students. We’re humbled that millions of teachers, parents and students like you trust ClassDojo to do that every day. Keeping this trust through your privacy and safety is incredibly important to us.
 
 This Privacy Policy explains: 
-> - What information we collect from you (and why we collect it!),
+> - What information ClassDojo collects from you (and why we collect it),
 > - How we use and share that information,
-> - The choices we offer you, including how to access, update and delete that information. 
+> - The choices you have, including how to access, update and delete your information.
 
 This policy applies to all products and services offered by Class Twist, Inc. (“ClassDojo,” “we,” “us,” “our,” and our subsidiaries or affiliates). 
 
-We’ve done our best to write this policy in simple, clear terms. We’ve also added a column on the right that provides short explanations of the legal language in plain English (it starts with ‘Basically...’) to aid in understanding, but it isn’t legally binding.
+We’ve done our best to write this policy in simple, clear terms. We’ve also added a column on the right that provides short explanations of the legal language in plain English (it starts with ‘Basically...’) to help even more with understanding, but it isn’t legally binding.
+
+You can see past versions of this policy here on Github.
 
 -------
 
@@ -55,7 +57,7 @@ ClassDojo is also a signatory to the Student Privacy Pledge, agreeing to a set o
 
 >Basically,
 >
->Safeguarding your privacy is incredibly important to us. This Privacy Policy explains how we treat any personal information that you share with us when you use ClassDojo. This doesn’t apply to third parties that ClassDojo does not own or control – they’ll have their own privacy policies. ClassDojo has been certified by TRUSTe, an FTC approved COPPA Safe Harbor, for compliance with TRUSTe's Privacy Program and Children's Privacy Program, and has also signed the Student Privacy Pledge.
+>Protecting your privacy is incredibly important to us. This Privacy Policy is here to help you understand how we treat any personal information that you share with us when you use ClassDojo. This policy applies to every ClassDojo product - other companies that ClassDojo doesn’t own or control will have their own privacy policies, and you should read them, too! ClassDojo has been certified by TRUSTe, an FTC-approved COPPA Safe Harbor, for compliance with TRUSTe's Privacy Program and Children's Privacy Program, and has also signed the Student Privacy Pledge.
 
 ## What is ClassDojo?
 
@@ -69,13 +71,13 @@ More information on how the Service operates is located here and your participat
 
 >Basically,
 >
->ClassDojo helps teachers encourage students and engage parents! Learn more here. 
+>ClassDojo helps teachers encourage students and engage parents. Learn more here. 
 
 ## How does ClassDojo protect children’s personal information?
-Protecting children’s privacy is especially important to us - we’re former educators and parents ourselves, after all! This is why we’ve signed the Student Privacy Pledge and received TRUSTe’s Children’s Privacy Seal, signifying that this Privacy Policy and our practices with respect to the operation of the Service have been reviewed and approved for compliance with TRUSTe’s Children’s Privacy Program. COPPA protects the online privacy of children under the age of 13 (“child” or “children”); for more information about COPPA and generally protecting children’s online privacy, please visit [OnGuard Online].
+Protecting children’s privacy is especially important to us - we’re educators and parents ourselves, after all. This is why we’ve signed the Student Privacy Pledge and received TRUSTe’s Children’s Privacy Seal, signifying that this Privacy Policy and our practices with respect to the operation of the Service have been reviewed and approved for compliance with TRUSTe’s Children’s Privacy Program. COPPA protects the online privacy of children under the age of 13 (“child” or “children”); for more information about COPPA and generally protecting children’s online privacy, please visit [OnGuard Online].
 
 **What Information Does ClassDojo Collect from Children, and How Is It Used?**
-ClassDojo collects the minimal amount of information from students necessary to create accounts on our Service: we ask students to provide a unique username (we advise students to not use their real name), a password, and the unique code they have been given by their teacher to connect with a class. Consistent with the requirements of COPPA, we also ask for the child’s age, and a parent or guardian email address from the child so we can seek verifiable parental consent or provide parental notice (as applicable). We will not use parent emails provided this way to market our Service to the parent, unless the parent has opted in to email marketing or has separately created an account on our Service. Beyond this, the ClassDojo student account does not allow the child the ability to upload any other content to their account, or enter any other personal information. In addition to the information entered by the child, we automatically collect some information from any use of our Service as set forth in the “Information collected automatically” section. 
+ClassDojo collects the minimal amount of information from students necessary to create accounts on our Service: we ask students to provide a unique username (we advise students not to use their real names), a password, and the unique code they have been given by their teacher to connect with a class. Consistent with the requirements of COPPA, we also ask for the child’s age, and a parent or guardian email address from the child so we can seek verifiable parental consent or provide parental notice (as applicable). We will not use parent emails provided this way to market our Service to the parent, unless the parent has opted in to email marketing or has separately created an account on our Service. Beyond this, the ClassDojo student account does not allow the child the ability to upload any other content to their account, or enter any other personal information. In addition to the information entered by the child, we automatically collect some information from any use of our Service as set forth in the “Information collected automatically” section. 
 
 We use this information to provide the Service to the child, for security and safety purposes, or as required by law or to enforce our Terms. We will not require children to provide more personal information than is reasonably necessary in order to participate in the Service. If we discover that we have collected information from a child in a manner inconsistent with COPPA, we will take appropriate steps to either delete the information, or immediately seek the parent’s consent for that collection. We do not disclose any personal information about children to third parties, except to service providers necessary to provide the Service, as required by law, or to protect the security of the Service or other users. Information collected from students (including personal information and information collected automatically) is never used or disclosed for third party advertising, including any kind of first- or third-party behaviorally targeted advertising, and children’s personal information is never sold or rented to anyone, including marketers or advertisers.
 
@@ -83,7 +85,7 @@ We also receive from the child’s teacher whatever name he or she has provided 
 
 > Basically,
 > 
-> ClassDojo has been certified by TRUSTe, an FTC approved COPPA Safe Harbor, for compliance with TRUSTe's Privacy Program and Children's Privacy Program. We will not require children to provide personal information beyond that which is reasonably necessary to use ClassDojo. Information collected from students is never used or disclosed for third party advertising or any kind of behaviorally-targeted advertising, and it is never sold or rented to anyone, including marketers or advertisers.
+> ClassDojo has been certified by TRUSTe, an FTC-approved COPPA Safe Harbor, for compliance with TRUSTe's Privacy Program and Children's Privacy Program. We don’t ask for or require children to provide personal information beyond that which is reasonably necessary to use ClassDojo. Information collected from students is never used or disclosed for third party advertising or any kind of behaviorally-targeted advertising, and it is never sold or rented to anyone, including marketers or advertisers.
 
 **Push Notifications**
 ClassDojo may send push notifications to students - for example, letting them know when their weekly report is ready, or telling them about an achievement milestone they reached! We require children provide a parent’s email address before he or she can receive push notifications from ClassDojo. We will then provide the parent with notice and provide the parent the opportunity to prevent further notifications. The device identifier for a child’s account will only be associated with other personal information once parental consent is provided. If you are a student or a parent of a child and no longer want these communications to be sent, please either turn off the push notifications on your device, or contact us at privacy@classdojo.com.
@@ -97,7 +99,7 @@ No student’s profile is made available or visible to the public, or to any oth
 
 > Basically,
 > 
-> Student’s full profiles are private to their teacher(s), their parents, and students themselves! Only their total points and their avatar can be seen by others if a teacher chooses to display the ClassDojo Website in class.
+> By default, the full set of feedback posted to a student’s account is private to the student, their teacher(s) and their parents. If a teacher displays the ClassDojo website in class - which is completely optional - only a student’s total points and avatar will be displayed.
 
 **How Long Does ClassDojo Keep Children’s Information?**
 We only keep a child’s personal information for as long as his or her student account is active, unless we are required by law to retain it, need it to ensure the security of our community or our Service, or to enforce our Terms. More specifically, ClassDojo operates a 3-tier student data protection policy to protect all students’ (not just children’s) information (“3-Tier Student Data Protection Policy”): 
@@ -110,7 +112,7 @@ We only keep a child’s personal information for as long as his or her student 
 
 > Basically,
 > 
-> We only keep a child’s personal information for as long as the account is active, unless we are required by law to retain it, need it to ensure the security of our community or our Service, or to enforce our Terms. Additionally, we protect students with our industry-leading 3-Tier Student Data Protection Policy: (1) we collect only minimal information from students, (2) we automatically delete their feedback points after a year - unless students or parents choose to save them for longer, and (3) we delete students’ accounts if they’re inactive for more than twelve months.
+> We only keep a child’s personal information for as long as the account is active, unless we are required by law to retain it, need it to enforce our policies, or to ensure the security of our community. Additionally, we protect students with our industry-leading 3-Tier Student Data Protection Policy: (1) we collect only minimal information from students (a random username, a password, and a parent’s email), (2) we automatically delete their feedback points after a year - unless students or parents choose to save them for longer, and (3) we delete students’ accounts if they’re inactive for more than twelve months.
 
 **Parental Choices**
 If you are the parent or legal guardian of a child who has created a ClassDojo account and you did not receive an email seeking your consent or providing notice (as per COPPA), you can email us at privacy@classdojo.com to have that child’s account deleted.
@@ -119,7 +121,7 @@ Any parents that want copies of their children’s personal information that we 
 
 > Basically,
 > 
-> We think parents should always be able to delete their child's account, request us to delete their child’s personal information, or obtain a copy of their child's personal information — so, they can! Just email us and we’ll be happy to help.
+> We believe parents should always be able to delete their child's account, request for us to delete their child’s personal information, or obtain a copy of their child's personal information. Just email us and we’ll be happy to help.
 
 ## What information does ClassDojo collect?
 
@@ -127,7 +129,7 @@ We collect two types of information about you: (1) information that you voluntar
 
 > Basically,
 > 
-> ClassDojo collects information directly from teachers, parents, and students (such as account information), and also collects information automatically (such as reports when errors occur) in order to provide you with the best possible experience.
+> ClassDojo asks for some limited information directly from teachers, parents, and students (such as account information), and also collects some information automatically (such as crash reports when errors occur) in order to provide you with the best possible ClassDojo experience.
 
 ### Information you provide to us
 There are currently three categories of users on our Service: teachers, parents, and students. We describe the information collected from students under 13 in the section above; for other users, we collect and store the following types of information from each type of user:
@@ -150,7 +152,7 @@ Our use of the information above is described below in the section “How Does C
 
 > Basically,
 > 
-> We collect different types of information directly from you based on who you are (i.e., teacher, parent, and student) and depending on the features you might use (e.g., sending a message between a teacher and a parent, or joining a school).
+> We ask you for different types of information based on who you are (i.e., teacher, parent, and student) and which ClassDojo features you use (e.g., sending a message between a teacher and a parent, or helping a teacher join their school).
 
 ### Information collected automatically
 Like most web-based services, we (or our service providers) may automatically receive and log information on our server logs from your browser or your device when you use the Service. For example, this could include the frequency and duration of your visits to ClassDojo (similar to TV ratings that indicate how many people watched a particular show). If you use ClassDojo on different devices, we may link the information we collect from those different devices to help us provide a consistent Service across your different devices. If we do combine any automatically-collected information with personal information, we will treat the combined information as personal information, and it will be protected as per this Privacy Policy.
@@ -180,7 +182,7 @@ When you use our Service we may collect and process information about your geogr
 
 > Basically,
 > 
-> We collect information from you automatically so that we know when things go wrong, or to help us understand what parts of ClassDojo need some improvement. Take a look at our Cookie Policy to see what types of technologies we use to do this. If we collect precise geolocation data from you as a teacher or parent, we’ll ask for your explicit, opt-in consent. We do not collect precise geolocation data from students.
+> We collect some information from you automatically using cookies so that we know when things go wrong, or to help us understand what parts of ClassDojo need some improvement. If we need to collect street-level (“precise”) geolocation data from you as a teacher or parent, we’ll ask for your explicit, opt-in consent. We do not collect precise geolocation data from students.
 
 ## How does ClassDojo use the information it collects?
 
@@ -196,7 +198,7 @@ We use automatically collected information (described in the “Information coll
 
 > Basically,
 > 
-> ClassDojo will never sell or rent your information to third-parties. Also, third party advertising is not permitted on ClassDojo. We only collect information when it can help provide you a better experience on ClassDojo.
+> ClassDojo doesn’t sell or rent your information to third-parties, and we don’t permit advertising on ClassDojo. We only ask you to share information with us when it can help provide you with a better ClassDojo experience.
 
 Will ClassDojo Share Any Information it Collects?
 
@@ -228,7 +230,9 @@ In the unlikely event that ClassDojo goes out of business, or files for bankrupt
 
 > Basically,
 > 
-> ClassDojo will never sell or rent your information to third-parties - including advertisers. We share limited amounts of personal information with third parties who help us provide the ClassDojo service (like companies that help us send emails, for example) or when legally required.
+> ClassDojo doesn’t sell or rent your information to any third-parties. We believe your information is yours, and you should own it - we think that’s the right way to operate. We share some  information with service providers who help us provide you with the ClassDojo service - like companies that help us send emails, for example, or if we have to to comply with the law.
+
+And, if ClassDojo is ever acquired or goes out of business, our commitments don’t change: we still won’t sell or rent your information to anyone. Your information will continue to be protected by this policy, and any company that acquires ClassDojo will have to abide by this policy.
 
 ## How does ClassDojo protect and secure my information?
 
@@ -249,7 +253,7 @@ Although we make concerted good faith efforts to maintain the security of person
 
 > Basically,
 > 
-> The security of your personal information is important to us. We are always adding safeguards to ensure the safety and security of ClassDojo and its community of teachers, parents, and students. You can help by keeping your password secret!
+> The security of your information is important to us, and we take it very seriously. We’re always adding safeguards to ensure the safety and security of ClassDojo and our community of teachers, parents, and students. You can help us out by keeping your password secret!
 
 ## ClassDojo’s commitments to providing Transparency and Choice
 
@@ -263,14 +267,14 @@ As you can see, we try to be transparent about what information we collect, so t
 
 > Basically,
 > 
-> ClassDojo aims to be a very transparent company. We want to give you control, so that you can make meaningful choices when it comes to your information and how it is used.
+> At ClassDojo, we believe that more transparency is better. We try to give you control, with easy settings and options, so that you can make good choices when it comes to your information and how it is used.
 
 ### Can I opt-out of providing information?
 You can always decline to share personal information with us, or even block all cookies. However, it’s important to remember that many of ClassDojo’s features may not be accessible, or may not function properly - for example, we may not be able to remember your language preferences for you.
 
 > Basically,
 > 
-> You can always opt-out of providing us information, though we may not be able to provide you with all of ClassDojo’s features.
+> You can always opt-out of providing us information, though we might not be able to provide you with all of ClassDojo’s features.
 
 ### How can I access and manage my personal information?
 
@@ -294,7 +298,7 @@ When you delete your account, we delete your profile information and any other c
 
 > Basically,
 > 
-> You can always delete your account by visiting your account settings, or simply by contacting us. For more detail on what happens when you delete your account, click here.
+> You can always delete your account by visiting your account settings, or simply by contacting us. For more details on what happens when you delete your account, click here.
 
 ## How long does ClassDojo keep information about me?
 
@@ -306,7 +310,7 @@ Please note that we may have to retain some information after your account is cl
 
 >  Basically,
 >  
-> We keep teacher and parent personal information until it is deleted, or until we no longer need it to provide the Service. We keep student personal information for as long as the account is active, unless we are required by law to retain it, or need it to protect the safety of our users. Additionally, for students, we have our 3-Tier Student Data Protection Policy to protect students’ information - read more here.
+> We keep teacher and parent personal information until it is deleted, or until we no longer need it to provide you with the ClassDojo service. We only keep student personal information for as long as the student’s account is active, unless we are required by law to retain it, or need it to protect the safety of our users. Additionally, for students, we have our 3-Tier Student Data Protection Policy that states how we delete students’ information after some time - our business is not about creating permanent records.
 
 ## What communications will I receive from ClassDojo?
 
@@ -320,7 +324,7 @@ You can further indicate your preferences by contacting us using the information
 
 > Basically,
 > 
-> From time to time, we may send you useful communications about updates or new features. You can always opt-out of these messages at any time!
+> From time to time, we may send you useful messages about updates or new features. You can always opt-out of these messages if you’d rather we didn’t contact you.
 
 ## Social Media Features/Widgets
 
@@ -387,7 +391,7 @@ Third parties that have content embedded on the ClassDojo Website, such as a soc
 
 ## How can I contact ClassDojo with questions?
 
-If you have any questions or concerns about this Privacy Policy or how we protect our community, please contact us at privacy@classdojo.com. If you’d like, you may also write to us at:
+If you have any questions or concerns about this Privacy Policy or how we protect our community, please contact us at privacy@classdojo.com - we’d love to help. If you’d like, you may also write to us at:
 
 Class Twist, Inc.
 735 Tehama Street
@@ -397,7 +401,7 @@ Attention: Chief Privacy Officer
 
 > Basically,
 > 
-> Questions? We're here to help! Email us any time at privacy@classdojo.com
+> Questions? We're here to help! Email us any time at privacy@classdojo.com.
 
 ## Further Privacy and Security Resources
 
@@ -405,6 +409,6 @@ For teachers, parents, students, directors of technology, or administrators seek
 
 > Basically,
 > 
-> If you’d like to see additional safety and privacy resources for your school, please visit our Privacy Center.
+> If you’d like some more safety and privacy resources for your school, please visit our Privacy Center.
 
 
