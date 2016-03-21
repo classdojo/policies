@@ -1,7 +1,7 @@
 
 # ClassDojo Terms of Service
 
-Last updated: October 3, 2015, Effective October 3, 2015
+Last updated: March 21, 2016
 
 The following are the terms of service (“Terms of Service”) that define the relationship between Class Twist, Inc. (doing business as ClassDojo (“Company,” “ClassDojo,” “we,” or “us”)) and you, and govern your use of ClassDojo’s services.
 
@@ -67,7 +67,7 @@ In order to allow ClassDojo to provide the Service, you hereby grant to us a lim
 
 Company will only share and use your personally identifiable information in accordance with ClassDojo’s current Privacy Policy at http://www.classdojo.com/privacy. 
 
-The license in (i) above will terminate when you delete any User Submissions with intellectual property rights (like photos or videos) (“IP content”)), you or your Institution (as defined below) deletes an Education Record, you delete any personal information, or you delete your account, unless your content has been shared with others, and they have not deleted it. Note, however, that any User Submissions that may be in or related to messages sent through ClassDojo Messaging may be kept after you delete your account. Please see our deletion FAQs for more information. When you delete IP content, Education Records, or personal information, it is deleted in a manner similar to emptying the recycle or trash bin on a computer. However, you understand that any removed User Submission may persist in backup copies for a reasonable period of time (but will not be available to others). You are responsible for making sure that you have all rights in the User Submissions, including the rights necessary for you to grant us the foregoing licenses to the User Submissions. 
+The license in (i) above will terminate when you delete any User Submissions with intellectual property rights (like photos or videos) (“IP content”)), you or your Institution (as defined below) deletes an Education Record, you delete any personal information, or you delete your account, unless your content has been shared with others, and they have not deleted it. Note, however, that any User Submissions that may be in or related to messages sent through ClassDojo Messaging, Class Story, or School Story may be kept after you delete your account. Please see our deletion FAQs for more information. When you delete IP content, Education Records, or personal information, it is deleted in a manner similar to emptying the recycle or trash bin on a computer. However, you understand that any removed User Submission may persist in backup copies for a reasonable period of time (but will not be available to others). You are responsible for making sure that you have all rights in the User Submissions, including the rights necessary for you to grant us the foregoing licenses to the User Submissions. 
 
 All information posted or transmitted through the Service is the responsibility of the person that posted it, and we will not be liable for any errors or omissions in any content. ClassDojo cannot guarantee the identity of any other users with whom you may interact in the course of using the Service, or the authenticity of any data which users may provide about themselves. You acknowledge that all content accessed by you using the Service is at your own risk and you will be solely responsible for any damage or loss to any party resulting therefrom. We do not guarantee that we will publish any of your User Submissions, and reserve the right to remove User Submissions from the Service at any time for any reason, such as if we receive a notice reports a User Submission infringes someone’s intellectual property rights.
 
@@ -102,7 +102,7 @@ a. **Students**: if you are a student accessing the Service at the invitation of
 > **Students**: if you want to create a ClassDojo account and connect it with a class, you must be invited by a teacher. If you’re under 13, you have to get your parent’s permission.
 > We collect minimal information from students to provide them with the ClassDojo service – usually just a username, password and their age (and a parent’s email address to ask for Consent when applicable).
 
-b. **Teachers**: if you are a teacher, aide, or other similar personnel accessing the Service on behalf of a school, school district, or other similar educational institution (the "Institution"), the following terms apply to you:
+b. **Teachers and school leaders**: if you are a teacher, school leader, aide, or other similar personnel accessing the Service on behalf of a school, school district, or other similar educational institution (the "Institution"), the following terms apply to you:
 
 	i. You agree that you are acting on behalf of (or have permission from) your Institution to enter into this Agreement and to use the Service as part of your curriculum.
 
@@ -112,7 +112,7 @@ b. **Teachers**: if you are a teacher, aide, or other similar personnel accessin
 
 > Basically,
 > 
-> **Teachers**: Please be sure your school or district is fine with you using ClassDojo, and acting on behalf of your school in this Agreement.
+> **Teachers and school leaders**: Please be sure your school or district is fine with you using ClassDojo, and acting on behalf of your school in this Agreement.
 
 c. Parents: if you are a parent of a Student that has been invited to create an account on the Service then the following terms apply to you:
 
@@ -126,7 +126,7 @@ c. Parents: if you are a parent of a Student that has been invited to create an 
 
 ## FERPA
 
-Certain information that may be provided to ClassDojo by teachers, teacher aides, or other personnel at an Institution (“School Official”) that is directly related to a student and maintained by an Institution, may be considered an education record (“Education Record”) under the Family Educational Rights and Privacy Act (“FERPA”). Additionally, certain information, provided to Company by School Officials about a student, such as student name and grade level, may be considered directory information under FERPA (“Directory Information”) and thus not an Education Record. A school may not generally disclose personally identifiable information from an eligible student’s education records to a third party without written consent of the parent and/or eligible student or without meeting one of the exemptions set forth in FERPA (“FERPA Exemption(s)”), including the exemption for Directory Information (“Directory Information Exemption”) or disclosure to school officials with a legitimate educational interest (“School Official Exemption”). 
+Certain information that may be provided to ClassDojo by teachers, school leaders, teacher aides, or other personnel at an Institution (“School Official”) that is directly related to a student and maintained by an Institution, may be considered an education record (“Education Record”) under the Family Educational Rights and Privacy Act (“FERPA”). Additionally, certain information, provided to Company by School Officials about a student, such as student name and grade level, may be considered directory information under FERPA (“Directory Information”) and thus not an Education Record. A school may not generally disclose personally identifiable information from an eligible student’s education records to a third party without written consent of the parent and/or eligible student or without meeting one of the exemptions set forth in FERPA (“FERPA Exemption(s)”), including the exemption for Directory Information (“Directory Information Exemption”) or disclosure to school officials with a legitimate educational interest (“School Official Exemption”).
 
 As a School Official or Institution providing Directory Information or any Education Record to ClassDojo, you represent, warrant and covenant to ClassDojo, as applicable, that your Institution has:
 
