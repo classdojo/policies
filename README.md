@@ -5,6 +5,6 @@ At ClassDojo, we believe in providing the best privacy, control, and security to
 
 > **Quick guide**
 
-> - For a quick overview of our practices and how we practice Privacy By Design, visit the [ClassDojo Privacy and Safety Center](https://www.classdojo.com/trustcenter)
+> - For a quick overview of our practices and how we practice Privacy By Design, visit the [ClassDojo Privacy Center](https://www.classdojo.com/privacycenter)
 > - Visit our [Terms of Service](https://www.classdojo.com/terms) or [Privacy Policy](https://www.classdojo.com/privacy) on our ClassDojo website for easy reading with short summaries of each section.
 > - To read and see changes from prior versions, visit our [Terms of Service](https://github.com/manojlamba/policies/blob/master/terms.md) and [Privacy Policy](https://github.com/manojlamba/policies/blob/master/privacy.md) on GitHub.
