@@ -216,6 +216,10 @@ Any violation of the above may be grounds for termination of your right to acces
 
 We may provide experimental features for you to try. These experimental features are not guaranteed to work the first time or any time. These features may abruptly and unexpectedly cease functioning, or disappear altogether. Other features of ClassDojo are not regularly tested for compatibility with experimental features. To enable an experimental feature, turn the switch on within a teacher account’s Settings. Experimental features will be added and old ones removed, possibly (probably) without notice. 
 
+> Basically, 
+>  
+> ClassDojo sometimes offers experimental features which haven't been tested. These may be removed without notice.
+
 ## WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
 
 We provide our Service using a commercially reasonable level of skill and care and we hope that you will enjoy using them. But there are certain things that we don’t promise about our Services.
