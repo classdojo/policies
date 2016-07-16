@@ -7,7 +7,7 @@ ClassDojo’s mission is to build the most important relationships in education 
 
 This Privacy Policy explains: 
 > - What information ClassDojo collects from you (and why we collect it),
-> - How we use and share that information,
+> - How we use and share that infcormation,
 > - The choices you have, including how to access, update and delete your information.
 
 This policy applies to all products and services offered by Class Twist, Inc. (“ClassDojo,” “we,” “us,” “our,” and our subsidiaries or affiliates). 
@@ -94,7 +94,7 @@ We also receive from the child’s teacher whatever name he or she has provided 
 
 > Basically,
 > 
-> ClassDojo has been certified by TRUSTe, an FTC-approved COPPA Safe Harbor, for compliance with TRUSTe's Privacy Program and Children's Privacy Program. We don’t ask for or require children to provide personal information beyond that which is reasonably necessary to use ClassDojo. Information collected from students is never used or disclosed for third party advertising or any kind of behaviorally-targeted advertising, and it is never sold or rented to anyone, including marketers or advertisers.
+> ClassDojo has been certified by iKeepSafe, an FTC-approved COPPA Safe Harbor, for compliance with their COPPA Safe Harbor program. We don’t ask for or require children to provide personal information beyond that which is reasonably necessary to use ClassDojo. Information collected from students is never used or disclosed for third party advertising or any kind of behaviorally-targeted advertising, and it is never sold or rented to anyone, including marketers or advertisers.
 
 **Push Notifications**
 ClassDojo may send push notifications to students - for example, letting them know when their weekly report is ready, or telling them about an achievement milestone they reached! We require children provide a parent’s email address before he or she can receive push notifications from ClassDojo. We will then provide the parent with notice and provide the parent the opportunity to prevent further notifications. The device identifier for a child’s account will only be associated with other personal information once parental consent is provided. If you are a student or a parent of a child and no longer want these communications to be sent, please either turn off the push notifications on your device, or contact us at privacy@classdojo.com.
