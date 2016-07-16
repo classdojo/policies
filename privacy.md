@@ -1,7 +1,7 @@
 
 # ClassDojo Privacy Policy
 
-Last updated: July 15, 2016
+Last updated: July 16, 2016
 
 ClassDojo’s mission is to build the most important relationships in education — the ones between teachers, school leaders, parents, and students. We’re humbled that millions of teachers, school leaders, parents and students like you trust ClassDojo to do that every day. Keeping this trust through your privacy and safety is incredibly important to us.
 
