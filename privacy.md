@@ -78,7 +78,7 @@ More information on how the Service operates is located here and your participat
 >ClassDojo helps teachers encourage students and engage parents. Learn more here. 
 
 ## How does ClassDojo protect children’s personal information?
-Protecting children’s privacy is especially important to us - we’re educators and parents ourselves, after all. This is why we’ve signed the Student Privacy Pledge and received TRUSTe’s Children’s Privacy Seal, signifying that this Privacy Policy and our practices with respect to the operation of the Service have been reviewed and approved for compliance with TRUSTe’s Children’s Privacy Program. COPPA protects the online privacy of children under the age of 13 (“child” or “children”); for more information about COPPA and generally protecting children’s online privacy, please visit [OnGuard Online].
+Protecting children’s privacy is especially important to us - we’re educators and parents ourselves, after all. This is why we’ve signed the Student Privacy Pledge and received iKeepSafe’s COPPA Safe Harbor seal, signifying that this Privacy Policy and our practices with respect to the operation of the Service have been reviewed and approved for compliance with iKeepSafe’s COPPA Safe Harbor program. COPPA protects the online privacy of children under the age of 13 (“child” or “children”); for more information about COPPA and generally protecting children’s online privacy, please visit [OnGuard Online](http://www.onguardonline.gov/articles/0031-protecting-your-childs-privacy-online).
 
 **What Information Does ClassDojo Collect from Children, and How Is It Used?**
 ClassDojo collects the minimal amount of information from students necessary to create accounts on our Service: we ask students to provide a unique username (we advise students not to use their real names), a password, and the unique code they have been given by their teacher to connect with a class. Consistent with the requirements of COPPA, we also ask for the child’s age, and a parent or guardian email address from the child so we can seek verifiable parental consent or provide parental notice (as applicable). We will not use parent emails provided this way to market our Service to the parent, unless the parent has opted in to email marketing or has separately created an account on our Service. We don’t ask students to enter any other personal information when setting up an account.
@@ -418,6 +418,5 @@ For teachers, school leader, parents, students, or administrators seeking more i
 
 > Basically,
 > 
-> If you’d like some more safety and privacy resources for your school, please visit our Privacy Center.
-
+> If you’d like some more safety and privacy resources for your school, please visit our [Privacy Center](https://www.classdojo.com/privacycenter).
 
