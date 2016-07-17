@@ -252,7 +252,7 @@ The security of your personal information is important to us. We work hard to pr
 * Our engineering team is dedicated to keeping your personal information secure
 * We work with a team of security researchers to continually test ClassDojo’s security practices for vulnerabilities
 * We periodically review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems
-* We continually develop and implement features to keep your personal information safe - for example, when you enter any personal information anywhere on the Service, we encrypt the transmission of that personal information using secure socket layer technology (SSL/TLS) by default
+* We continually develop and implement features to keep your personal information safe - for example, when you enter any information anywhere on the Service, we encrypt the transmission of that information using secure socket layer technology (SSL/TLS) by default
 * We ensure passwords are stored and transferred securely using encryption and salted hashing
 * We automatically delete inactive student accounts after a specific period of time, as per our retention policy, described in the “How Long Does ClassDojo Keep Children’s Information?” section
 
