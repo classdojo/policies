@@ -7,7 +7,7 @@ ClassDojo’s mission is to build the most important relationships in education 
 
 This Privacy Policy explains: 
 > - What information ClassDojo collects from you (and why we collect it),
-> - How we use and share that infcormation,
+> - How we use and share that information,
 > - The choices you have, including how to access, update and delete your information.
 
 This policy applies to all products and services offered by Class Twist, Inc. (“ClassDojo,” “we,” “us,” “our,” and our subsidiaries or affiliates). 
