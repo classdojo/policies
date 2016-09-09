@@ -1,9 +1,8 @@
-
 # ClassDojo Privacy Policy
 
-Last updated: July 16, 2016
+Last updated: September 9, 2016
 
-ClassDojo’s mission is to build the most important relationships in education — the ones between teachers, school leaders, parents, and students. We’re humbled that millions of teachers, school leaders, parents and students like you trust ClassDojo to do that every day. Keeping this trust through your privacy and safety is incredibly important to us.
+ClassDojo’s mission is to give teachers, school leaders, parents, and students the power to create incredible classrooms. We’re humbled that millions of people like you trust ClassDojo to do that every day. Keeping this trust through your privacy and safety is incredibly important to us.
 
 This Privacy Policy explains: 
 > - What information ClassDojo collects from you (and why we collect it),
@@ -21,7 +20,7 @@ You can see past versions of this policy [here](https://github.com/classdojo/pol
 ## Quick Reference
 
 - [Overview](#overview)
-- [What is ClassDojo?](#what-is-classdojo)
+- [What is ClassDojo?](#what-is-classdojo?)
 - [How does ClassDojo protect children’s personal information?](#how-does-classdojo-protect-childrens-personal-information)
 - [What information does ClassDojo collect?](#what-information-does-classdojo-collect)
 	- [Information you provide to us](#information-you-provide-to-us)
@@ -37,7 +36,7 @@ You can see past versions of this policy [here](https://github.com/classdojo/pol
 - [Social Media Features/Widgets](#social-media-featureswidgets)
 - [How will ClassDojo notify me of changes to this policy?](#how-will-classdojo-notify-me-of-changes-to-this-policy)
 - [What if I’m not in the U.S.?](#what-if-im-not-in-the-us)
-- [EU and Swiss Safe Harbor](#eu-and-swiss-safe-harbor)
+- [EU – U.S. Privacy Shield and U.S. – Swiss Safe Harbor](#eu-us-privacy-shield-and-us–swiss-safe-harbor)
 - [Canada](#canada)
 - [California Privacy Disclosures](#california-privacy-disclosures)
 - [How can I contact ClassDojo with questions?](#how-can-i-contact-classdojo-with-questions)
@@ -51,15 +50,13 @@ This policy does not apply to websites or services or practices of companies tha
 
 Whether you are new here (welcome!), or have been using ClassDojo for a long time (welcome back!), please do take the time to get to know our privacy practices. We think they’re pretty clear and friendly, but if you have any questions, we’re here to help. You can visit the ClassDojo Privacy Center to learn more about how we protect your privacy, or send us an email at privacy@classdojo.com. By using the Service, you acknowledge that you accept and agree to this Privacy Policy.
 
-We are proud that we’ve received TRUSTe's Privacy Seal, signifying that this Privacy Policy and our practices with respect to the operation of the Service have been reviewed for compliance with the TRUSTe program (viewable on the validation page available by clicking here). The TRUSTe Privacy Certification covers information collected on both the ClassDojo Website and the ClassDojo Apps. If you have an unresolved privacy or data use concern that you feel we’ve not addressed satisfactorily, please contact TRUSTe here.
-
 Additionally, in our commitment to protect the privacy of children, ClassDojo participates in the iKeepSafe Safe Harbor program. ClassDojo has been granted the iKeepSafe COPPA Safe Harbor seal signifying its Website and Apps have been reviewed and approved for having policies and practices surrounding the collection, use, maintenance and disclosure of personal information from children consistent with the iKeepSafe COPPA Safe Harbor program guidelines.
 
 ClassDojo is also a signatory to the Student Privacy Pledge, agreeing to a set of principles intended to safeguard student privacy, including responsible stewardship, protection, and transparent handling of student personal information. Read more about the Student Privacy Pledge here.
 
 >Basically,
 >
->Protecting your privacy is incredibly important to us. This Privacy Policy is here to help you understand how we treat any personal information that you share with us when you use ClassDojo. This policy applies to every ClassDojo product - other companies that ClassDojo doesn’t own or control will have their own privacy policies, and you should read them, too! ClassDojo has been certified by iKeepSafe, an FTC-approved COPPA Safe Harbor, has received TRUSTe’s Privacy Seal, and has also signed the Student Privacy Pledge.
+>Protecting your privacy is incredibly important to us. This Privacy Policy is here to help you understand how we treat any personal information that you share with us when you use ClassDojo. This policy applies to every ClassDojo product - other companies that ClassDojo doesn’t own or control will have their own privacy policies, and you should read them, too! ClassDojo has been certified by iKeepSafe, an FTC-approved COPPA Safe Harbor, and has also signed the Student Privacy Pledge.
 
 ## What is ClassDojo?
 
@@ -195,7 +192,7 @@ When you use our Service we may collect and process information about your geogr
 
 ## How does ClassDojo use the information it collects?
 
-First and foremost, you should know that ClassDojo does not sell or rent any of your, or your child’s, personal information to any third party for any purpose - including for advertising or marketing purposes. Third-party advertising is not permitted on ClassDojo. We use the information we collect from you to provide you with the best ClassDojo experience. More specifically, this information is used to:
+First and foremost, you should know that ClassDojo does not sell or rent any of your, or your child’s, personal information to any third party for any purpose - including for advertising or marketing purposes. Targeted advertising is not permitted on ClassDojo. We use the information we collect from you to provide you with the best ClassDojo experience. More specifically, this information is used to:
  
 * Provide and improve the Service, for example by developing new products and features
 * Respond to your requests for information or customer support
@@ -207,11 +204,11 @@ We use automatically collected information (described in the “Information coll
 
 > Basically,
 > 
-> ClassDojo doesn’t sell or rent your information to third-parties, and we don’t permit advertising on ClassDojo. We only ask you to share information with us when it can help provide you with a better ClassDojo experience.
+> ClassDojo doesn’t sell or rent your information to third-parties, and we don’t permit targeted advertising on ClassDojo. We only ask you to share information with us when it can help provide you with a better ClassDojo experience.
 
 Will ClassDojo Share Any Information it Collects?
 
-First and foremost, you should know that ClassDojo does not sell or rent your (or your child’s) personal information to any third party for any purpose - including for advertising or marketing purposes. Third-party advertising is not permitted on ClassDojo. Furthermore, we do not share personal information with any third parties except in the limited circumstances described in this Privacy Policy: 
+First and foremost, you should know that ClassDojo does not sell or rent your (or your child’s) personal information to any third party for any purpose - including for advertising or marketing purposes. Targeted advertising is not permitted on ClassDojo. Furthermore, we do not share personal information with any third parties except in the limited circumstances described in this Privacy Policy: 
 
 **Other Users You Share and Communicate with on ClassDojo**: No teacher, school leader, parent or student profiles are made available to the general public through our Service. Furthermore, students cannot share their account information (except their avatar) with anyone on ClassDojo. If you are a teacher, school leader, or a parent, you may choose to share information or content through the Service with other ClassDojo teachers, school leaders, or parents - for example, things like your account information, feedback points awarded to students you teach (if you are a teacher or school leader) or to your children (if you are a parent) or other information you share with teachers, school leaders, or parents you are messaging through ClassDojo Messaging, Class Story, or School Story or our other collaboration features. 
 
@@ -219,7 +216,7 @@ Please keep in mind that information (including personal Information or children
 
 **Third-party integrations on our Service**: When, as a teacher, school leader, or parent, you use third-party apps, websites or other services that use, or are integrated with, our Service, they may receive information about what you post or share. For example, when you invite others via Facebook or Twitter, these services receive the information that you share through this functionality, and information that you are sharing from ClassDojo. Information collected by these apps, websites or integrated services is subject to their own terms and policies.
 
-**Service Providers**: Third party advertising is not permitted on ClassDojo. We do work with vendors, service providers, and other partners to help us provide the Service by performing tasks on our behalf - we can’t build everything ourselves, after all! We may need to share or provide information (including personal information) to them to help them perform these business functions, for example sending emails on our behalf, database management services, database hosting, providing customer support software, and security. Please see here for a list of the third parties we work with to provide the Service. Generally, these service providers do not have the right to use your personal information we share with them beyond what is necessary to assist us. Additionally, these service providers must adhere to confidentiality and security obligations in a way that is consistent with this Privacy Policy.
+**Service Providers**: Targeted advertising is not permitted on ClassDojo. We do work with vendors, service providers, and other partners to help us provide the Service by performing tasks on our behalf - we can’t build everything ourselves, after all! We may need to share or provide information (including personal information) to them to help them perform these business functions, for example sending emails on our behalf, database management services, database hosting, providing customer support software, and security. Please see here for a list of the third parties we work with to provide the Service. Generally, these service providers do not have the right to use your personal information we share with them beyond what is necessary to assist us. Additionally, these service providers must adhere to confidentiality and security obligations in a way that is consistent with this Privacy Policy.
 
 **Testimonials**: We post testimonials on our Service which may contain personal information such as the name, photo and/or a video of the individual in the testimonial. We obtain the individual’s consent in advance to ensure we have permission to post this content publicly. To request removal of your personal information from our testimonials, please contact us at privacy@classdojo.com. 
 
@@ -287,9 +284,9 @@ You can always decline to share personal information with us, or even block all 
 
 ### How can I access and manage my personal information?
 
-ClassDojo aims to provide you with easy access to any personal information we have collected about you. If that information is incorrect, we give you easy ways to update it, or to delete it, unless we have to keep that information for legitimate business (e.g., we need at least an email address for your account) or legal purposes. 
+ClassDojo aims to provide you with easy access to any personal information we have collected about you. If that information is incorrect, we give you easy ways to update it, or to delete it, unless we have to keep that information for legitimate business (e.g., we need at least an email address for your account) or legal purposes.
 
-**Accessing Your Information**: To request access to all your personal information we have on file, please contact us at privacy@classdojo.com. In some cases, we won’t be able to guarantee complete access due to legal restrictions - for example, you will not be allowed to access files that contain information about other users or information that is confidential to us. We may not be able to fulfill requests that are unreasonably repetitive, require disproportionate technical effort or would be extremely impractical.
+**Accessing Your Information**: Upon request, ClassDojo will provide you with information about whether we hold any of your personal information, and, If you are a user of ClassDojo, you may request access to all your personal information we have on file by contacting us at privacy@classdojo.com. In some cases, we won’t be able to guarantee complete access due to legal restrictions - for example, you will not be allowed to access files that contain information about other users or information that is confidential to us. We may not be able to fulfill requests that are unreasonably repetitive, require disproportionate technical effort or would be extremely impractical.
 
 **Updating Your Information**: You may update, correct, or delete some of your profile information or your preferences at any time by logging into your account on ClassDojo and accessing your account settings page. You may have to verify your identity before you can do that. You may also, at any time, update, correct, or delete certain personal information that you have provided to us by contacting us at privacy@classdojo.com. We will respond to your request within a reasonable timeframe. Please note that while your changes may be reflected promptly in active content, users that have previously accessed the content may still have access to old copies cached on their device or may have copied and stored your content. In addition, we may retain a backup copy of the prior version for a limited period of time or for legal purposes. 
 
@@ -362,17 +359,23 @@ ClassDojo is hosted in the United States. If you use the Service from the Europe
 > 
 > Our servers are located in the U.S., so if you are using the Service from any other country, your data might be transferred to the U.S. 
 
-## EU and Swiss Safe Harbor
+## EU – U.S. Privacy Shield and U.S. – Swiss Safe Harbor
 
-ClassDojo complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+ClassDojo participates in and has certified its compliance with the EU – U.S. Privacy Shield Framework.  ClassDojo is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov).
 
-For more information about the US-EU and US-Swiss Safe Harbor programs, and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website. For more information about ClassDojo’s participation in the Safe Harbor program, please visit our Safe Harbor details page. If you have any questions about our Safe Harbor participation, please contact us at privacy@classdojo.com.
+ClassDojo is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to third parties acting as an agent on its behalf. ClassDojo complies with the Privacy Shield Principles for all onward transfers of personal information from the EU, including the onward transfer liability provisions.
 
-As part of our participation in the Safe Harbor programs, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through their website. 
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ClassDojo is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, ClassDojo may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern, please contact our U.S.-based third party dispute resolution provider, free of charge [here](https://feedback-form.truste.com/watchdog/request).
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.  
+
+ClassDojo also complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. ClassDojo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ClassDojo’s certification, please visit [here](http://www.export.gov/safeharbor).
 
 > Basically,
 > 
-> ClassDojo is certified as an approved company under the U.S-E.U Safe Harbor and the U.S.-Swiss Safe Harbor. 
+> ClassDojo is certified as an approved company under the EU – U.S. Privacy Shield and the U.S. – Swiss Safe Harbor.
 
 ## Canada
 
@@ -419,4 +422,5 @@ For teachers, school leader, parents, students, or administrators seeking more i
 > Basically,
 > 
 > If you’d like some more safety and privacy resources for your school, please visit our [Privacy Center](https://www.classdojo.com/privacycenter).
+
 
