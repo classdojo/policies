@@ -22,7 +22,7 @@ Quick Reference
 - [Modification to Agreement](#modification-to-agreement)
 - [Your Representations and Warranty](#your-representations-and-warranty)
 - [Acceptable Use and Conduct](#acceptable-use-and-conduct)
-- [Experimental Features](#experimental)
+- [Experimental Features](#experimental-features)
 - [WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY](#warranty-disclaimer-and-limitation-of-liability)
 - [Registration and Security](#registration-and-security)
 - [Indemnity](#indemnity)
@@ -223,7 +223,7 @@ ClassDojo will not change how Education Records are used or shared under these T
 >  
 >  If these terms of use change, we will notify you, and give you a chance to opt out. We won’t change the terms retroactively.
 
-## Your Warranty
+## Your Representations and Warranty
 
 You warrant, represent and agree that you will not provide any User Submissions or otherwise use the Service in a manner that (i) infringes, violates or misappropriates another’s intellectual property rights, rights of publicity or privacy, or other rights; (ii) violates any international, federal, state or local law, statute, ordinance or regulation or which would render Company in violation of any applicable laws or regulations, including without limitation COPPA and FERPA (the “Laws”); (iii) is harmful, fraudulent, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, or otherwise objectionable; or (iv) jeopardizes the security of your account in any way, such as allowing someone else access to your account or password. Additionally, you represent, warrant and agree that you (i) possess all rights necessary to provide your User Submissions and grant Company the rights in this Agreement (ii) you will comply with the Laws in connection with your use of the Service; and (iii) you are solely responsible for compliance with COPPA when obtaining School Consent. 
 
@@ -366,5 +366,3 @@ g. Enforceability: if only Subsection F of this Section or the entirety of this 
 The failure of either party to exercise, in any respect, any right provided for herein shall not be deemed a waiver of any further rights hereunder. Company shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Company's reasonable control. If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable. This Agreement is not assignable, transferable or sublicensable by you except with Company's prior written consent. Company may transfer, assign or delegate this Agreement and its rights and obligations without restriction. This Agreement is governed by and construed in accordance with the laws of the State of California without regard to the conflict of laws provisions thereof. To the extent any dispute arising from or relating to the subject matter of this Agreement is permitted to be brought in a court of law, such claim shall be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco, California, and for all purposes of this Agreement, you and Company consent to the exclusive jurisdiction and venue of such courts. Unless and solely to the extent that you or your Institution have a separate written agreement with Company that governs your use of the Service (in which case such agreement will control), we both agree that this Agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that the Agreement may not be modified, except as otherwise provided herein. This Agreement and any subsequent versions of this Agreement posted to the Website will be deemed a writing signed by both parties. No agency, partnership, joint venture, or employment is created as a result of this Agreement and you do not have any authority of any kind to bind Company in any respect whatsoever.
 
 For information about how to contact Company, please visit our contact page.
-
-
