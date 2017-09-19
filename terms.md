@@ -21,7 +21,7 @@ Quick Reference
 - [Third-party Applications and Integrations](#third-party-applications-and-integrations)
 - [Modification to Agreement](#modification-to-agreement)
 - [Your Representations and Warranty](#your-representations-and-warranty)
-- [Acceptable Use and Conduct] (#acceptable-use-and-conduct)
+- [Acceptable Use and Conduct](#acceptable-use-and-conduct)
 - [Experimental Features](#experimental)
 - [WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY](#warranty-disclaimer-and-limitation-of-liability)
 - [Registration and Security](#registration-and-security)
