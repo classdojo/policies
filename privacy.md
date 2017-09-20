@@ -26,7 +26,7 @@ You can see past versions of this policy [here](https://github.com/classdojo/pol
 - [What information does ClassDojo collect?](#what-information-does-classdojo-collect)
 	- [Information you provide to us](#information-you-provide-to-us)
 	- [Information collected automatically](#information-collected-automatically)
-	- [Information Received from third-party sources](information-received-from-third-party-sources)
+	- [Information Received from third-party sources](#information-received-from-third-party-sources)
 - [How does ClassDojo use the information it collects?](#how-does-classdojo-use-the-information-it-collects)
 - [How does ClassDojo protect and secure my information?](#how-does-classdojo-protect-and-secure-my-information)
 - [ClassDojo’s commitments to providing Transparency and Choice](#classdojos-commitments-to-providing-transparency-and-choice)
@@ -44,7 +44,7 @@ You can see past versions of this policy [here](https://github.com/classdojo/pol
 - [California Privacy Disclosures](#california-privacy-disclosures)
 - [How can I contact ClassDojo with questions?](#how-can-i-contact-classdojo-with-questions)
 - [Further Privacy and Security Resources](#further-privacy-and-security-resources)
-	- [Key Terms](#further-privacy-and-security-resources)
+- [Key Terms](#further-privacy-and-security-resources)
 
 ## Overview
 
