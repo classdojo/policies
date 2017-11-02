@@ -39,12 +39,13 @@ You can see past versions of this policy [here](https://github.com/classdojo/pol
 - [Third-Party Services](#third-party-services)
 - [How will ClassDojo notify me of changes to this policy?](#how-will-classdojo-notify-me-of-changes-to-this-policy)
 - [What if I’m not in the U.S.?](#what-if-im-not-in-the-us)
-	- [EU – U.S. Privacy Shield and U.S. – Swiss Safe Harbor](#eu--us-privacy-shield-and-us--swiss-safe-harbor)
+	- [EU – U.S. Privacy Shield and Swiss — U.S. Privacy Shield](#eu--us-privacy-shield-and-swiss--us-privacy-shield)
 	- [Canada](#canada)
 - [California Privacy Disclosures](#california-privacy-disclosures)
 - [How can I contact ClassDojo with questions?](#how-can-i-contact-classdojo-with-questions)
 - [Further Privacy and Security Resources](#further-privacy-and-security-resources)
 - [Key Terms](#further-privacy-and-security-resources)
+- [Online Tracking Technologies Policy](#further-privacy-and-security-resources)
 
 ## Overview
 
@@ -429,23 +430,21 @@ By using the Service, you consent to the transfer of your personal information o
 > Our servers are located in the U.S., so if you are using the Service from any other country, your data might be transferred to the U.S.
 
 
-## EU – U.S. Privacy Shield and U.S. – Swiss Safe Harbor
+## EU – U.S. Privacy Shield and Swiss — U.S. Privacy Shield
 
-ClassDojo participates in and has certified its compliance with the EU – U.S. Privacy Shield Framework.  ClassDojo is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov).
+ClassDojo participates in and has certified its compliance with the EU – U.S. Privacy Shield Framework.  ClassDojo is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov).
 
-ClassDojo is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to third-parties acting as an agent on its behalf. ClassDojo complies with the Privacy Shield Principles for all onward transfers of personal information from the EU, including the onward transfer liability provisions.
+ClassDojo is responsible for the processing of personal information it receives, under the Privacy Shield Frameworks, and subsequently transfers to third-parties acting as an agent on its behalf. ClassDojo complies with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ClassDojo is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, ClassDojo may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, ClassDojo is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, ClassDojo may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern, please contact our U.S.-based third-party dispute resolution provider, free of charge [here](https://feedback-form.truste.com/watchdog/request).
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.  
 
-ClassDojo also complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. ClassDojo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ClassDojo’s certification, please visit [here](http://www.export.gov/safeharbor).
-
 > Basically,
 > 
-> ClassDojo is certified as an approved company under the EU – U.S. Privacy Shield and the U.S. – Swiss Safe Harbor.
+> ClassDojo is certified as an approved company under the EU – U.S. Privacy Shield and Swiss — U.S. Privacy Shield.
 
 ## Canada
 
@@ -489,7 +488,7 @@ Attention: Chief Privacy Officer
 
 For teachers, school leader, parents, students, or administrators seeking more information on how we provide safety on ClassDojo, we provide privacy and security related materials on our [Privacy Center](https://www.classdojo.com/privacycenter).
 
-For Key Terms that are used in this Privacy Policy and our Terms of Service, please visit this [Key Terms FAQ](https://classdojo.zendesk.com/hc/en-us/articles/115004741703).
+For Key Terms that are used in this Privacy Policy and our Terms of Service, please visit this [Key Terms FAQ](https://classdojo.zendesk.com/hc/en-us/articles/115004741703). For our Online Tracking Technologies Policy, please see [here](https://classdojo.zendesk.com/hc/en-us/articles/204430505).
 
 > Basically,
 > 
