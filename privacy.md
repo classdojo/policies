@@ -432,7 +432,7 @@ By using the Service, you consent to the transfer of your personal information o
 
 ## EU – U.S. Privacy Shield and Swiss — U.S. Privacy Shield
 
-ClassDojo participates in and has certified its compliance with the EU – U.S. Privacy Shield Framework.  ClassDojo is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov).
+ClassDojo complies with the EU – U.S. Privacy Shield Framework and Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. ClassDojo certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov).
 
 ClassDojo is responsible for the processing of personal information it receives, under the Privacy Shield Frameworks, and subsequently transfers to third-parties acting as an agent on its behalf. ClassDojo complies with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions.
 
