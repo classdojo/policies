@@ -8,7 +8,7 @@ We’ve done our best to write this policy in simple, clear terms. We’ve also 
 
 -------
 
-Quick Reference
+## Quick Reference
 
 - [Agreeing to our Terms](#agreeing-to-our-terms)
 - [Using the Service](#using-the-service)
