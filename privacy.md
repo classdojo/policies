@@ -39,7 +39,7 @@ Our Privacy Policy is designed to provide transparency into our privacy practice
 
 Last updated: May 23, 2018. You can see past versions of this policy [here](https://github.com/classdojo/policies/blob/master/privacy.md) on Github.
 
-[![ClassDojo signed the Student Privacy Pledge](https://static.classdojo.com/img/page_privacy/spp_signatory+square_lg.jpg)](http://studentprivacypledge.org/?page_id=45) [![iKeepSafe COPPA Safe Harbor seal](https://static.classdojo.com/img/page_privacy/ikeepsafe_coppabadge.png)](http://ikeepsafe.org/privacy/coppa/ "iKeepSafe COPPA Safe Harbor seal") [![iKeepSafe FERPA seal](https://static.classdojo.com/img/page_privacycenter/iKeepSafe-FERPA-seal.png)](http://ikeepsafe.org/privacy/ferpa/ "iKeepSafe FERPA seal") [![TRUSTe European Safe Harbor certification](//privacy-policy.truste.com/privacy-seal/Class-Twist,-Inc/seal?rid=35a28526-c90f-4929-b3bc-a335afcac007)](//privacy.truste.com/privacy-seal/Class-Twist,-Inc/validation?rid=35a28526-c90f-4929-b3bc-a335afcac007 "TRUSTe European Safe Harbor certification")
+[![ClassDojo signed the Student Privacy Pledge](https://static.classdojo.com/img/page_privacy/spp_signatory+square_lg.jpg)](http://studentprivacypledge.org/?page_id=45) [![iKeepSafe COPPA Safe Harbor seal](https://static.classdojo.com/img/page_privacy/ikeepsafe_coppabadge.png)](http://ikeepsafe.org/privacy/coppa/ "iKeepSafe COPPA Safe Harbor seal") [![iKeepSafe FERPA seal](https://static.classdojo.com/img/page_privacycenter/iKeepSafe-FERPA-seal.png)](http://ikeepsafe.org/privacy/ferpa/ "iKeepSafe FERPA seal") [![TRUSTe European Safe Harbor certification](http://www.classdojo.com//privacy-policy.truste.com/privacy-seal/Class-Twist,-Inc/seal?rid=35a28526-c90f-4929-b3bc-a335afcac007)](http://www.classdojo.com//privacy.truste.com/privacy-seal/Class-Twist,-Inc/validation?rid=35a28526-c90f-4929-b3bc-a335afcac007 "TRUSTe European Safe Harbor certification")
 
 ## Quick Reference
 
@@ -80,7 +80,7 @@ We will only collect, use, and share your [personal information](https://classdo
 
 This policy does not apply to websites or services or practices of companies that ClassDojo doesn’t own or control, such as third-party services you might access through links or other features (e.g., social media buttons or YouTube videos) on the Service. These other services have their own privacy policies, and we encourage you to review them before providing them with personal information.
 
-Whether you are new here (welcome!), or have been using ClassDojo for a long time (welcome back!), please do take the time to get to know our privacy practices. We think they’re pretty clear and friendly, but if you have any questions, we’re here to help. You can visit the [ClassDojo Privacy Center](/privacycenter) to learn more about how we protect your privacy, or send us an email at privacy@classdojo.com. By using the Service, you acknowledge that you accept and agree to this Privacy Policy.
+Whether you are new here (welcome!), or have been using ClassDojo for a long time (welcome back!), please do take the time to get to know our privacy practices. We think they’re pretty clear and friendly, but if you have any questions, we’re here to help. You can visit the [ClassDojo Privacy Center](http://www.classdojo.com/privacycenter) to learn more about how we protect your privacy, or send us an email at privacy@classdojo.com. By using the Service, you acknowledge that you accept and agree to this Privacy Policy.
 
 >Basically,
 >
@@ -90,7 +90,7 @@ Whether you are new here (welcome!), or have been using ClassDojo for a long tim
 
 ## ClassDojo’s Privacy Certifications
 
-[![ClassDojo signed the Student Privacy Pledge](https://static.classdojo.com/img/page_privacy/spp_signatory+square_lg.jpg)](http://studentprivacypledge.org/?page_id=45) [![iKeepSafe COPPA Safe Harbor seal](https://static.classdojo.com/img/page_privacy/ikeepsafe_coppabadge.png)](http://ikeepsafe.org/privacy/coppa/ "iKeepSafe COPPA Safe Harbor seal") [![iKeepSafe FERPA seal](https://static.classdojo.com/img/page_privacycenter/iKeepSafe-FERPA-seal.png)](http://ikeepsafe.org/privacy/ferpa/ "iKeepSafe FERPA seal") [![TRUSTe European Safe Harbor certification](//privacy-policy.truste.com/privacy-seal/Class-Twist,-Inc/seal?rid=35a28526-c90f-4929-b3bc-a335afcac007)](//privacy.truste.com/privacy-seal/Class-Twist,-Inc/validation?rid=35a28526-c90f-4929-b3bc-a335afcac007 "TRUSTe European Safe Harbor certification") 
+[![ClassDojo signed the Student Privacy Pledge](https://static.classdojo.com/img/page_privacy/spp_signatory+square_lg.jpg)](http://studentprivacypledge.org/?page_id=45) [![iKeepSafe COPPA Safe Harbor seal](https://static.classdojo.com/img/page_privacy/ikeepsafe_coppabadge.png)](http://ikeepsafe.org/privacy/coppa/ "iKeepSafe COPPA Safe Harbor seal") [![iKeepSafe FERPA seal](https://static.classdojo.com/img/page_privacycenter/iKeepSafe-FERPA-seal.png)](http://ikeepsafe.org/privacy/ferpa/ "iKeepSafe FERPA seal") [![TRUSTe European Safe Harbor certification](http://www.classdojo.com//privacy-policy.truste.com/privacy-seal/Class-Twist,-Inc/seal?rid=35a28526-c90f-4929-b3bc-a335afcac007)](http://www.classdojo.com//privacy.truste.com/privacy-seal/Class-Twist,-Inc/validation?rid=35a28526-c90f-4929-b3bc-a335afcac007 "TRUSTe European Safe Harbor certification") 
 
 ClassDojo participates in the iKeepSafe Safe Harbor program. ClassDojo has been granted the iKeepSafe COPPA Safe Harbor seal signifying its Website, Platform, and Apps have been reviewed and approved for having policies and practices surrounding the collection, use, maintenance and disclosure of [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#PersonalInformation) from children consistent with the iKeepSafe COPPA Safe Harbor program guidelines.
 
@@ -114,11 +114,11 @@ Students can also have their own account to view feedback given by teachers, and
 
 School leaders also play a meaningful role on ClassDojo. They can share notes, photos, and videos on School Story; only teachers, parents and students connected to classes in the school can see these posts. School leaders can also create classes, share classes with teachers to give feedback to students and message with parents, plus see [Highlights](https://classdojo.zendesk.com/hc/en-us/articles/207813176-What-can-School-Leaders-see-and-do-#web) \- a high-level overview of all the feedback and engagement happening within their school.
 
-More information on how the Service operates is located [here](https://classdojo.zendesk.com/hc/en-us/sections/200873509) and your participation and use of the Service is governed by our [Terms of Service](/terms) (“Terms”).
+More information on how the Service operates is located [here](https://classdojo.zendesk.com/hc/en-us/sections/200873509) and your participation and use of the Service is governed by our [Terms of Service](http://www.classdojo.com/terms) (“Terms”).
 
 >Basically,
 >
->ClassDojo is a private school communication platform that brings teachers, students, parents together. Learn more [here](/learnmore).
+>ClassDojo is a private school communication platform that brings teachers, students, parents together. Learn more [here](http://www.classdojo.com/learnmore).
 
 * * *
 
@@ -410,7 +410,7 @@ The security of your [personal information](https://classdojo.zendesk.com/hc/en-
 *   We restrict access to personal information to authorized ClassDojo employees, agents or independent contractors who need to know that information in order to process it for us, and who are subject to strict confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations
     
 
-For additional information on our security practices, please visit our [Privacy Center](/privacycenter).  
+For additional information on our security practices, please visit our [Privacy Center](http://www.classdojo.com/privacycenter).  
 Although we make concerted good faith efforts to maintain the security of personal information, and we work hard to ensure the integrity and security of our systems, no practices are 100% immune, and we can’t guarantee the security of information. Outages, attacks, human error, system failure, unauthorized use or other factors may compromise the security of user information at any time. If we learn of a security breach, we will attempt to notify you electronically (subject to any applicable laws) so that you can take appropriate protective steps; for example, we may post a notice on our homepage (www.classdojo.com) or elsewhere on the Service, and may send email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 
 >Basically,
@@ -652,7 +652,7 @@ Questions? We're here to help! Email us any time at privacy@classdojo.com.
 
 ## Further Privacy and Security Resources
 
-For teachers, school leaders, parents, students, or administrators seeking more information on how we provide safety on ClassDojo, we provide privacy and security related materials on our [Privacy Center](/privacycenter).  
+For teachers, school leaders, parents, students, or administrators seeking more information on how we provide safety on ClassDojo, we provide privacy and security related materials on our [Privacy Center](http://www.classdojo.com/privacycenter).  
   
 For Key Terms that are used in this Privacy Policy and our Terms of Service, please visit this [Key Terms FAQ](https://classdojo.zendesk.com/hc/en-us/articles/115004741703).  
   
@@ -665,4 +665,4 @@ For our chart that details the personal information we collect, how we use it, a
 
 >Basically,
 >
->If you’d like some more safety and privacy resources for your school, please visit our [Privacy Center](/privacycenter). For definitions of Key Terms used in this policy and our Terms of Service, [visit here](https://classdojo.zendesk.com/hc/en-us/articles/115004741703).
+>If you’d like some more safety and privacy resources for your school, please visit our [Privacy Center](http://www.classdojo.com/privacycenter). For definitions of Key Terms used in this policy and our Terms of Service, [visit here](https://classdojo.zendesk.com/hc/en-us/articles/115004741703).
