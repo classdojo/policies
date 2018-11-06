@@ -33,7 +33,7 @@ This list may change over time, and we’ll work hard to keep it up-to-date. If 
 |[MongoLab](https://mongolab.com/company/legal/privacy/)|Securely storing and organizing data|User data, messages, product events. All personal data written is encrypted at rest.|
 |[Papertrail](http://www.papertrail.io/privacy-policy)|Logging errors that occur on our apps|Server logs|
 |[Pdfcrowd](https://pdfcrowd.com/legal/)|Creating PDF files|On user request to download a student report as a PDF, we send information contained in the report (e.g., child's name, class name, teacher name, and the feedback point information)|
-|[Pubnub](https://www.pubnub.com/privacy-policy/)|Managing realtime communication data|ClassDojo-assigned user ID, and server logs|
+|[Pubnub](https://www.pubnub.com/privacy-policy/)|Managing realtime communication data|ClassDojo-assigned user ID and class ID|
 |[Redis Labs](https://redislabs.com/company/terms-of-use)|Securely storing and organizing data|User information and product events|
 |[SendGrid](https://sendgrid.com/privacy)|Sending emails|Email addresses and other associated user-level data (e.g., Name) for teacher, parent, and school leader users (not students)|
 |[SurveyMonkey](https://www.surveymonkey.com/mp/policy/privacy-policy/)|Sending surveys to teachers, parents, and school leaders|Email addresses and other associated user-level data (e.g., Name) for teacher, parent, and school leader users (not students), as well as any data a user provides when responding tot he survey|
