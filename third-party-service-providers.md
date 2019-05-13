@@ -27,14 +27,12 @@ This list may change over time, and we’ll work hard to keep it up-to-date. If 
 |Google APIs for Google Maps and Google SSO for students|To convert school addresses to latitude/longitude|"For Google SSO: ClassDojo receives authentication token and student email address; ClassDojo does not share personal information back with Google for this use. For Google Maps: ClassDojo receives location information for schools"|
 |[Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/)|To easily manage tags on our websites|Site usage and IP addresses|
 |[Greenhouse](https://www.greenhouse.io/privacy-policy)|Recruiting and prospective employee management|Prospective employee and contractor information - not for users|
-|[Librato](https://www.librato.com/privacy)|Monitoring our performance metrics|Server and product event logs at a user-level|
 |[Loggly](https://www.loggly.com/privacy/)|Tracking errors on our website|Server and product event logs at a logs at a user-level |
 |[MDR Education](https://mdreducation.com/privacy-policy/)|For improving the details we have about schools, like name and address (U.S. only)|MDR shares with ClassDojo school information (e.g., which district a school is part of), as well as key contact information (e.g., principal name and email address for a school)|
 |[MongoLab](https://mongolab.com/company/legal/privacy/)|Securely storing and organizing data|User data, messages, product events. All personal data written is encrypted at rest.|
-|[Papertrail](http://www.papertrail.io/privacy-policy)|Logging errors that occur on our apps|Server and product event logs at a logs at a user-level|
+|[MongoDB](https://www.mongodb.com/legal/privacy-policy)|Securely storing and organizing data|User data, messages, product events. All personal data written is encrypted at rest.|
 |[Pdfcrowd](https://pdfcrowd.com/legal/)|Creating PDF files|On user request to download a student report as a PDF, we send information contained in the report (e.g., child's name, class name, teacher name, and the feedback point information)|
 |[Pubnub](https://www.pubnub.com/privacy-policy/)|Managing realtime communication data|ClassDojo-assigned user ID and class ID|
-|[Redis Labs](https://redislabs.com/company/terms-of-use)|Securely storing and organizing data|User information and product events|
 |[SendGrid](https://sendgrid.com/privacy)|Sending emails|Email addresses and other associated user-level data (e.g., Name) for teacher, parent, and school leader users (not students)|
 |[SurveyMonkey](https://www.surveymonkey.com/mp/policy/privacy-policy/)|Sending surveys to teachers, parents, and school leaders|Email addresses and other associated user-level data (e.g., Name) for teacher, parent, and school leader users (not students), as well as any data a user provides when responding tot he survey|
 |[Sysdig](https://www.iubenda.com/privacy-policy/769504/full-legal)|Monitoring server requests|Server logs|
