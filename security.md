@@ -2,7 +2,7 @@
 
 ClassDojo, operates the services offered on classdojo.com (the &quot;ClassDojo Website&quot;), including the ClassDojo platform (the &quot;ClassDojo Platform&quot;), and any associated mobile applications (the &quot;ClassDojo Apps&quot;) or products and services that Company may provide now or in the future (collectively, the &quot;Service&quot;).
 
-Protecting data privacy and security is a top priority for ClassDojo. Our [Privacy Policy](https://www.classdojo.com/privacy/) and [Student Data Privacy Addendum](https://app.hellosign.com/s/c5488d3f) solidify the commitments that ClassDojo and schools make to each other, including our security and privacy commitments. Capitalized terms not defined in this document, such as &quot;Student Data&quot;, are defined in our Student Data Privacy Addendum. We regularly evaluate our policies and practices to improve security and to keep up with the latest practices of the security industry.
+Protecting data privacy and security is a top priority for ClassDojo. Our [Privacy Policy](https://www.classdojo.com/privacy/) and [Student Data Privacy Addendum](https://www.ssllabs.com/ssltest/analyze.html?d=classdojo.com&latest) solidify the commitments that ClassDojo and schools make to each other, including our security and privacy commitments. Capitalized terms not defined in this document, such as &quot;Student Data&quot;, are defined in our Student Data Privacy Addendum. We regularly evaluate our policies and practices to improve security and to keep up with the latest practices of the security industry.
 
 This document is designed to provide technical readers, such as Chief Information Officers or Chief Technology Officers at school districts, additional clarity and specifics about our security commitments. While this document is written for technology experts who often play a key role in assessing our policies, we recognize that data security is just as important to families, teachers, and students as it is to school officials. If you would like to find out more and access materials that are written to help you digest the more technical information here, please visit our [Privacy Center](https://www.classdojo.com/privacycenter/). Additionally, should you have security or privacy questions, please reach out to our team at privacy@classdojo.com
 
@@ -34,7 +34,7 @@ Student Data is stored at our Service Provider, AWS, and the following applies t
 
 ### Network Security
 
-The ClassDojo Services use AWS, to host the infrastructure. AWS undergoes strict ongoing security assessments from external audit firms to ensure compliance with security standards including ISO 27001, SOC 2, PCI DSS Level 1, and FISMA. See [https://aws.amazon.com/compliance/programs/](https://aws.amazon.com/compliance/programs/%20)for more details.
+The ClassDojo Services use AWS, to host the infrastructure. AWS undergoes strict ongoing security assessments from external audit firms to ensure compliance with security standards including ISO 27001, SOC 2, PCI DSS Level 1, and FISMA. See [https://aws.amazon.com/compliance/programs/](https://aws.amazon.com/compliance/programs/) for more details.
 
 Network access to the ClassDojo Services infrastructure is highly restricted. AWS hosted infrastructure resides in a dedicated Virtual Private Cloud (VPC) which is designed to ensure that only authorized traffic over approved ports is allowed. We use ThreatStack to monitor for suspicious activity.
 
