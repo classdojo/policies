@@ -56,7 +56,7 @@ We have a data backup and recovery capability that is designed to provide a time
 
 *Note: Student Data is stored at our Service Provider - currently AWS - and the above applies to their technical and organizational measures as well as any other relevant [Service Providers](https://www.classdojo.com/third-party-service-providers/), such as MongoDB. In addition, we have a disaster recovery plan in place.*
 
-## II.Physical Security
+## Physical Security
 
 ### Physical Access Controls
 
