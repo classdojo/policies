@@ -1,6 +1,6 @@
 ### Privacy Policy Highlights
 
-We believe you should always know what data we collect from you and how we use it, and that you should have meaningful control over both. We want to empower users to make the best decisions about the information that they share with us. In fact, we made a [short video](https://vid.ly/7d4i1b) for students that highlights the most important details in our Privacy Policy that they should know about. We also have a [Student Data Protection Addendum](https://app.hellosign.com/s/c5488d3f), an agreement we enter into with schools, that further describes our duties, responsibilities, and commitments with respect to Student Data (as defined therein) that we collect or receive.
+We believe you should always know what data we collect from you and how we use it, and that you should have meaningful control over both. We want to empower users to make the best decisions about the information that they share with us. In fact, we made a [short video](https://vid.ly/7d4i1b) for students that highlights the most important details in our Privacy Policy that they should know about. We also have a [Student Data Protection Addendum](https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=6d8f3d18-2a69-4248-aced-5b53d46969c3&env=na3-eu1), an agreement we enter into with schools, that further describes our duties, responsibilities, and commitments with respect to Student Data (as defined therein) that we collect or receive.
 
 You should read this policy in [full](#classdojo-privacy-policy), but here are a few key points:
 
