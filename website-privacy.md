@@ -20,25 +20,25 @@ By accessing or using the Sites, you are consenting to the collection, use, disc
 
 ## Quick Reference
 
-- Types of Information We Collect
-- How We Use the Information We Collect
-- Sharing Your Information
-- Online Analytics, Advertising and Do-Not-Track
-- Data Security and Retention
-- ClassDojo's Commitments to Providing Transparency and Your Rights International Users
-- Sharing Your Information
-  - EU – U.S. Privacy Shield and Swiss – U.S. Privacy Shield
-  - Canada
-- Communications from ClassDojo
-- Social Media Features
-- Third-Party Services
-- Children
-- California Privacy Rights
-- Changes and Updates to this Privacy Policy
-- Contacting ClassDojo
+- [Types of Information We Collect](#types-of-information-we-collect)
+- [How We Use the Information We Collect](#how-we-use-the-information-we-collect)
+- [Sharing Your Information](#sharing-your-information)
+- [Online Analytics, Advertising and Do-Not-Track](#online-analytics-advertising-and-do-not-track)
+- [Data Security and Retention](#data-security-and-retention)
+- [ClassDojo's Commitments to Providing Transparency and Your Rights](classdojo-s-commitments-to-providing-transparency-and-your-rights)
+- [International Users](#international-users)
+  - [EU – U.S. Privacy Shield and Swiss – U.S. Privacy Shield](#eu-u-s-privacy-shield-and-swiss-u-s-privacy-shield)
+  - [Canada](#canada)
+- [Communications from ClassDojo](#communications-from-classdojo)
+- [Social Media Features](#social-media-features)
+- [Third-Party Services](#third-party-services)
+- [Children](#children)
+- [Online Surveys and Feedback](#online-surveys-and-feedback)
+- [California Privacy Rights](#california-privacy-rights)
+- [Changes and Updates to this Privacy Policy](#changes-and-updates-to-this-privacy-policy)
+- [Contacting ClassDojo](#contacting-classdojo)
 - [Further Privacy and Security Resources](https://www.classdojo.com/privacycenter/)
 - [Key Terms](https://classdojo.zendesk.com/hc/en-us/articles/115004741703)
-- Online Tracking Technologies Policy
 
 ## Types of Information We Collect
 
@@ -263,11 +263,11 @@ Pursuant to California Civil Code Section 1798.83(c)(2), ClassDojo does not shar
 
 California customers can receive more information about our compliance with this law or to make a request under California Civil Code Section 1798.83 by sending us an email at privacy@classdojo.com or by writing to us as set forth in “Contacting ClassDojo” Section below:
 
-### Changes and Updates to this Privacy Policy
+## Changes and Updates to this Privacy Policy
 
 We may revise our Privacy Policy from time to time as our business practices and legal requirements evolve.  You can see when the last update was by looking at the “Last Updated” date at the top of this page.  We won’t reduce your rights under this Privacy Policy without your explicit consent.  If we make any significant changes, we’ll provide prominent notice by posting a notice on the Site and/or notifying you by email (using the email address you provided), so you can review and make sure you know about them.  We encourage you to review this Privacy Policy from time to time, to stay informed about our collection, use, and disclosure of [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_2843be58-eb16-4535-8579-138369598e4d) through the Site.  By continuing to use the Site after the revised Privacy Policy has become effective, you acknowledge that you accept and agree to the current version of the Privacy Policy.
 
-### Contacting ClassDojo
+## Contacting ClassDojo
 
 If you have any questions, comments or concerns regarding our Privacy Policy, practices or how we protect our community, please contact us at privacy@classdojo.com - we'd love to help.  If you’d like, you may also [submit a ticket](https://classdojo.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000061571) or write to us at:
 
@@ -276,7 +276,7 @@ Attention: Chief Privacy Officer
 735 Tehama Street
 San Francisco, CA 94103
 
-### Further Privacy and Security Resources
+## Further Privacy and Security Resources
 
 For teachers, school leaders, parents, students, or administrators seeking more information on how we provide safety on ClassDojo, we provide privacy and security related materials on our [Privacy Center](http://www.classdojo.com/privacycenter) as well as our [Security Whitepaper](https://www.classdojo.com/security/).
 
