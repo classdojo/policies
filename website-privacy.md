@@ -241,7 +241,7 @@ You can also ask us questions and share comments or suggestions with us.  Your q
 
 ### Your Rights and Choices
 
-If you are a California resident you have the right to request that ClassDojo disclose certain information to you about our collection and use of your personal information over the past twelve (12) months.  Please see [this chart](https://www.classdojo.com/data/) for the detailed categories of personal information we collect from each user type, including the sources from which the information was collected, the business purpose for which the information was collected and the third parties with whom we share or disclose personal information for a business purpose.
+If you are a California resident you have the right to request that ClassDojo disclose certain information to you about our collection and use of your personal information over the past twelve (12) months.  Please see [this chart](https://www.classdojo.com/transparency/) for the detailed categories of personal information we collect from each user type, including the sources from which the information was collected, the business purpose for which the information was collected and the third parties with whom we share or disclose personal information for a business purpose.
 
 California consumers also have specific rights of access, deletion and data portability regarding their personal information under the CCPA. If you are a California resident you have the right to request that ClassDojo provide the specific pieces of information that we have collected about you.  You also have the right to request deletion of your personal information collected or maintained by ClassDojo.  We provide these same rights to all users.  Please see the ClassDojo’s Commitments to Providing Transparency and Your Rights Section for more detail on how to exercise these rights, including how we will verify requests.  If you are a California resident, you may also designate a natural person or business entity registered with the California Secretary of State to act on your behalf to exercise these rights.
 
@@ -286,4 +286,4 @@ For our Online Tracking Technologies Policy, please see [here](https://www.class
 
 For our short video for students that highlights the most important details in our [Products Privacy Policy](https://www.classdojo.com/privacy/) that they should know about, please see [here](https://vid.ly/7d4i1b).
 
-For our chart that details the personal information we collect, how we use it, and where it is stored, please see [here](https://www.classdojo.com/data/).
+For our chart that details the personal information we collect, how we use it, and where it is stored, please see [here](https://www.classdojo.com/transparency/).
