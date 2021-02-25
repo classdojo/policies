@@ -13,6 +13,7 @@ This list may change over time, and we’ll work hard to keep it up-to-date. If 
 |[Algolia](https://www.algolia.com/policies/privacy)|This service helps teachers and parents easily search for their school.|Precise location information (not for student users) include latitude and longitude.|
 |[AWS](https://aws.amazon.com/agreement/)|Amazon Web Services (AWS) provides ClassDojo with servers, databases, analytics, and network infrastructure|All user personal information and uploaded content, device ID, request data, and all logs are stored on AWS. Passwords are stored as one-way hashes. All personal data is encrypted at rest.|
 |[Apple Pay](https://www.apple.com/legal/privacy/en-ww/)|Payment transaction processor for Beyond School subscriptions.|Apple shares a Transaction ID with ClassDojo to acknowledge an active subscription as well as the date the individual signed up for Beyond School and the payment status (paid or cancelled). We do not receive any user credit card or other financial information from Apple.|
+|[Blueshift](https://blueshift.com/privacy-policy)|This service helps us send relevant and friendly communications (email, push notifications, in-app notifications) to parents and teachers.|Email addresses and other associated user-level data (e.g., name), as well as product events at a user-level. No student data is shared with Blueshift.|
 |[CloudAMQP](https://www.cloudamqp.com/privacy_policy.html)|Support the messaging infrastructure|User-generated messages and content|
 |[Coconut.co](http://coconut.co/tos)|Video encoding|User-generated videos|
 |[DataDog](https://app.datadoghq.com/policy/privacy)|Monitoring and visualizing our server performance|Server logs and product event logs at a user-level|
@@ -43,6 +44,7 @@ Third party service providers for ClassDojo's corporate website:
 
 |Provider name (Link to their Privacy Policy)|How ClassDojo uses the provider|What user information is shared or collected by this partner and/or passed back to us from the partner?|
 |----|----|----|
+|[Blueshift](https://blueshift.com/privacy-policy)|This service helps us send relevant and friendly communications (email, push notifications, in-app notifications) to parents and teachers.|Email addresses and other associated user-level data (e.g., name), as well as product events at a user-level. No student data is shared with Blueshift.|
 |[Google Analytics](http://www.google.com/intl/en/policies/privacy/)|Analytics on our websites|Site usage and IP addresses. We have requested  “IP Anonymization.” We may share information like logged in/logged out state; Google Analytics shares back anonymized user demographic information. For more information, see [Google’s FAQ](https://support.google.com/analytics/answer/6004245).|
 |[Greenhouse](https://www.greenhouse.io/privacy-policy)|Recruiting and prospective employee management|Prospective employee and contractor information, none shared with logged-in users|
 
