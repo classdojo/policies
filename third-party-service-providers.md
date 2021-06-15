@@ -22,7 +22,6 @@ This list may change over time, and we’ll work hard to keep it up-to-date. If 
 |[Google Translate](https://cloud.google.com/security/privacy/)|Messages and story posts are translated from the posted language into another language selected by the user.|User-generated messages and story posts.|
 |Google Inc. (G Suite)|Utilized for ClassDojo  internal emails, docs, slides, spreadsheets, etc.|ClassDojo stores its own emails and files using Google services. ClassDojo may share personal information with Google in the course of utilizing Google services, for example if a user emails an employee for support.|
 |[Google Single Sign On (SSO) for students](https://developers.google.com/terms/api-services-user-data-policy)|Student login authentication using their Google credentials|ClassDojo receives authentication token and student email address; ClassDojo does not share personal information back with Google for this service.|
-|[Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/)|To easily manage tags on our websites|Site usage and IP addresses|
 |[SolarWinds - Loggly](https://www.loggly.com/about/privacy-policy/)|Tracking errors on our website|Server and product event logs at a logs at a user-level|
 |[MongoDB Atlas](https://www.mongodb.com/legal/privacy-policy)  (previously known as MongoLab and MongoDB)|Securely storing and organizing data|User data, messages, product events. All personal data written is encrypted at rest.|
 |[Pdfcrowd](https://pdfcrowd.com/legal/)|Creating PDF files|On user request to download a student report as a PDF, we send information contained in the report (e.g., child's name, class name, teacher name, and the feedback point information)|
@@ -44,6 +43,5 @@ Third party service providers for ClassDojo's corporate website:
 |Provider name (Link to their Privacy Policy)|How ClassDojo uses the provider|What user information is shared or collected by this partner and/or passed back to us from the partner?|
 |----|----|----|
 |[Blueshift](https://blueshift.com/privacy-policy)|This service helps us send relevant and friendly communications (email, push notifications, in-app notifications) to parents and teachers.|Email addresses and other associated user-level data (e.g., name), as well as product events at a user-level. No student data is shared with Blueshift.|
-|[Google Analytics](http://www.google.com/intl/en/policies/privacy/)|Analytics on our websites|Site usage and IP addresses. We have requested  “IP Anonymization.” We may share information like logged in/logged out state; Google Analytics shares back anonymized user demographic information. For more information, see [Google’s FAQ](https://support.google.com/analytics/answer/6004245).|
 |[Greenhouse](https://www.greenhouse.io/privacy-policy)|Recruiting and prospective employee management|Prospective employee and contractor information, none shared with logged-in users|
 
