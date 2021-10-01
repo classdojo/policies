@@ -6,7 +6,7 @@ PLEASE NOTE THAT THESE TERMS CONTAIN A DISPUTE RESOLUTION AND BINDING ARBITRATIO
 
 We’ve done our best to write this policy in simple, clear terms. We’ve also added summaries below each section that provide short explanations of the legal language in plain English (it starts with ‘Basically...’) to aid in understanding, but it isn’t legally binding.
 
-Last updated: August 4, 2021. You can see past versions of our Terms [here](https://github.com/classdojo/policies/blob/master/terms.md) on Github.
+Last updated: November 2, 2018. You can see past versions of our Terms [here](https://github.com/classdojo/policies/blob/master/terms.md) on Github.
 
 ## Quick Reference
 
