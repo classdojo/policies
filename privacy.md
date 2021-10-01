@@ -1,6 +1,6 @@
 ### Privacy Policy Highlights
 
-Last updated: August 4, 2021. You can see past versions of this policy [here](https://github.com/classdojo/policies/blob/master/privacy.md) on Github.
+Last updated: December 30, 2019. You can see past versions of this policy [here](https://github.com/classdojo/policies/blob/master/privacy.md) on Github.
 
 We believe you should always know what data we collect from you and how we use it, and that you should have meaningful control over both. We want to empower users to make the best decisions about the information that they share with us. In fact, we made a [short video](https://vid.ly/7d4i1b) for students that highlights the most important details in our Privacy Policy that they should know about. We also have a [Student Data Protection Addendum](https://static.classdojo.com/docs/DPA/2021-05-classdojo-student-data-dpa.pdf), an agreement we enter into with schools, that further describes our duties, responsibilities, and commitments with respect to [Student Data](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#h_63d91d2f-19b7-44bd-8373-649884e75fca) that we collect or receive.
 
