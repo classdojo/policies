@@ -1,6 +1,8 @@
 # CHILDREN’S PRIVACY POLICY
 
-HOW DOES CLASSDOJO PROTECT CHILDREN’S PERSONAL INFORMATION?
+Last Updated: January 27th 2022 
+
+*HOW DOES CLASSDOJO PROTECT CHILDREN’S PERSONAL INFORMATION?*
 
 Protecting children’s privacy is especially important to us - we’re educators and parents ourselves, after all. This is why we’ve signed the Student Privacy Pledge and received iKeepSafe’s Children’s Online Privacy Protection Act (“COPPA”) Safe Harbor seal, signifying that this Privacy Policy and our practices with respect to the operation of the Service have been reviewed and approved for compliance with iKeepSafe’s COPPA Safe Harbor program. COPPA protects the online privacy of children under the age of 13 (“child” or “children”); for more information about COPPA and generally protecting children’s online privacy, please visit [OnGuard Online](http://www.onguardonline.gov/articles/0031-protecting-your-childs-privacy-online). 
 
