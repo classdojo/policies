@@ -149,7 +149,7 @@ More information on how the Service operates is located [here](https://classdojo
 
 ## HOW DOES CLASSDOJO PROTECT CHILDREN’S PERSONAL INFORMATION?
 
-Please see our Children’s Privacy Policy [here](https://www.classdojo.com/privacy-children)
+Please see our Children’s Privacy Policy [here](https://www.classdojo.com/child-privacy)
 
 * * *
 
