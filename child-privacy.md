@@ -15,11 +15,11 @@ This Children’s Privacy Policy explains our information, collection, disclosur
 
 ## Quick Reference
 
-- [What Information Does ClassDojo Collect From Children, and How is it Used?](#What-Information-does-ClassDojo-collect-fromChildren-and-how-is-it-used)
-- [Push Notifications](#Push-Notifications)
-- [What Children’s Information is Visible to Others?](#What-Children’s-Information-is-Visible-to- Others?)
--[How Long Does ClassDojo Keep Children’s Information?](#How-Long-Does-ClassDojo-Keep-Children’s-Information?) 
-[Parental Choices] (#Parental-Choices)  
+- [What Information Does ClassDojo Collect From Children, and How is it Used?](#what-information-does-classdojo-collect-from-children-and-how-is-it-used)
+- [Push Notifications](#push-notifications)
+- [What Children’s Information is Visible to Others?](#what-childrens-information-is-visible-to-others)
+- [How Long Does ClassDojo Keep Children’s Information?](#how-long-does-classdojo-keep-childrens-information) 
+- [Parental Choices](#parental-choices)  
 
 
 ## What Information Does ClassDojo Collect From Children, and How is it Used?
