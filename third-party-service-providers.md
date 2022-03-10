@@ -1,5 +1,3 @@
-# Third Party Service Providers
-
 It's important to us that we keep your information safe and secure. In order to help ClassDojo provide, maintain, protect and improve our services (the “ClassDojo Services”), ClassDojo shares information with a few other partners, vendors and trusted organizations (“Service Providers”) to process it on our behalf in accordance with our instructions, Privacy Policy and any other appropriate confidentiality, security or other requirements. These companies will only have access to the information they need to provide the ClassDojo Services.
 
 You can find information on these Service Providers we work with below, including what data we share with them or they provide to us, the service they provide for ClassDojo and links to their respective privacy policies or other documents that govern how they handle the information the process on our behalf.
