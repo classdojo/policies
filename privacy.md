@@ -458,8 +458,7 @@ Pursuant to Article 27 of the GDPR, ClassDojo has appointed European Data Protec
 
 >Basically,
 >
->If you're located in the EU you can contact ClassDojo’s appointed local representative in the EU, European Data Protection Office (EDPO) using their [online request form](https://www.edpo.brussels/contact). If you are located in the UK, you can contact ClassDojo’s appointed local representative in the UK, EDPO using their [online request form]
-ttps://edpo.com/uk-gdpr-data-request/.
+>If you're located in the EU you can contact ClassDojo’s appointed local representative in the EU, European Data Protection Office (EDPO) using their [online request form](https://www.edpo.brussels/contact). If you are located in the UK, you can contact ClassDojo’s appointed local representative in the UK, EDPO using their [online request form]https://edpo.com/uk-gdpr-data-request/.
 * * *
 
 ## HOW LONG DOES CLASSDOJO KEEP INFORMATION ABOUT ME?
