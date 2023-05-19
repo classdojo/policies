@@ -4,7 +4,7 @@ The following are the terms of service (“Terms of Service”) that define the 
 
 PLEASE NOTE THAT THESE TERMS CONTAIN A DISPUTE RESOLUTION AND BINDING ARBITRATION PROVISION [SECTION](#dispute-resolution), INCLUDING A CLASS ACTION WAIVER THAT AFFECTS YOUR RIGHTS UNDER THESE TERMS AND WITH RESPECT TO DISPUTES YOU MAY HAVE WITH THE SERVICES.
 
-We’ve done our best to write this policy in simple, clear terms. We’ve also added summaries below each section that provide short explanations of the legal language in plain English (it starts with ‘Basically...’) to aid in understanding, but it isn’t legally binding.
+We’ve done our best to write this policy in simple, clear terms. We’ve also added summaries below each section that provide short explanations of the legal language in plain English (it starts with ‘Basically...’)  to aid in understanding, but it isn’t legally binding.
 
 Last updated: November 2, 2018. You can see past versions of our Terms [here](https://github.com/classdojo/policies/blob/master/terms.md) on Github.
 
