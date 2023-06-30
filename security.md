@@ -36,14 +36,14 @@ Student Data is stored at our Service Provider, AWS, and the following applies t
 
 The ClassDojo Services use AWS, to host the infrastructure. AWS undergoes strict ongoing security assessments from external audit firms to ensure compliance with security standards including ISO 27001, SOC 2, PCI DSS Level 1, and FISMA. See [https://aws.amazon.com/compliance/programs/](https://aws.amazon.com/compliance/programs/) for more details.
 
-Network access to the ClassDojo Services infrastructure is highly restricted. AWS hosted infrastructure resides in a dedicated Virtual Private Cloud (VPC) which is designed to ensure that only authorized traffic over approved ports is allowed. We use ThreatStack to monitor for suspicious activity.
+Network access to the ClassDojo Services infrastructure is highly restricted. AWS hosted infrastructure resides in a dedicated Virtual Private Cloud (VPC) which is designed to ensure that only authorized traffic over approved ports is allowed. We use expel to monitor for suspicious activity.
 
 ### Patching
 
 We use automated processes to regularly install security updates on the infrastructure that powers the ClassDojo Services, these processes include:
 
 - AWS Managed Services (e.g., Relational Database Service):** AWS proactively notifies our engineering team when updates are available and we apply them in a timely fashion.
-- AWS EC2:** All EC2 instances are monitored by ThreatStack and AWS inspector and updates are applied in a timely fashion
+- AWS EC2:** All EC2 instances are monitored by AWS inspector and updates are applied in a timely fashion
 - Classdojo Application:** Monitored by Snyk.io and Github for vulnerabilities and they are updated in a timely fashion
 
 ### Backups and Availability Control
