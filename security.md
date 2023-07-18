@@ -22,21 +22,21 @@ This document is designed to provide technical readers, such as Chief Informatio
   - [Disclosure Control](#disclosure-control)
   - [Entry Control](#entry-control)
 
-## Infrastructure Security
+# Infrastructure Security
 
-### Encryption at Rest and In Transit
+## Encryption at Rest and In Transit
 
 Access to the ClassDojo Service occurs via encrypted connections
 
-(HTTP over TLS, also known as HTTPS) which encrypt all data before it leaves the ClassDojo Service&#39;s servers and protects that data as it transits over the internet.All of our Services are in Amazon Web Services (AWS) and served from either Cloudfront or Elastic Load Balancer (ELB). We use HTTP Strict Transport Security to ensure that pages are loaded over HTTPS connections and our TLS configuration receives an A+ from [Qualys SSL Labs](https://www.ssllabs.com/ssltest/analyze.html?d=classdojo.com&latest).
+(HTTP over TLS, also known as HTTPS) which encrypt all data before it leaves the ClassDojo Service&#39;s servers and protects that data as it transits over the internet. All of our Services are in Amazon Web Services (AWS) and served from either Cloudfront or Elastic Load Balancer (ELB). We use HTTP Strict Transport Security to ensure that pages are loaded over HTTPS connections and our TLS configuration receives an A+ from [Qualys SSL Labs](https://www.ssllabs.com/ssltest/analyze.html?d=classdojo.com&latest).
 
-Student Data is stored at our Service Provider, AWS, and the following applies to their technical and organizational measures. In addition, we secure decentralized data processing equipment and personal computers. All personally identifiable information is encrypted at rest using modern encryption algorithms. In AWS S3, we use AES­256 with AWS managed keys, in Aurora (MySql) we use AES-256 with customer managed keys and in Redshift we use AES-256 with AWS managed keys. Additionally, we use MongoDB with AES-256 with keys managed by AWS For more information on these vendors please see our [Third Party Service Providers chart](http://www.classdojo.com/third-party-service-providers/).
+Student Data is stored at our Service Provider, AWS, and the following applies to their technical and organizational measures. In addition, we secure decentralized data processing equipment and personal computers. All personally identifiable information is encrypted at rest using modern encryption algorithms. In AWS S3, we use AES­256 with AWS-managed keys, in Aurora (MySql) we use AES-256 with customer managed keys and in Redshift we use AES-256 with AWS managed keys. Additionally, we use MongoDB with AES-256 with keys managed by AWS. For more information, please see our [Third Party Service Providers chart](http://www.classdojo.com/third-party-service-providers/).
 
-### Network Security
+## Network Security
 
-The ClassDojo Services use AWS, to host the infrastructure. AWS undergoes strict ongoing security assessments from external audit firms to ensure compliance with security standards including ISO 27001, SOC 2, PCI DSS Level 1, and FISMA. See [https://aws.amazon.com/compliance/programs/](https://aws.amazon.com/compliance/programs/) for more details.
+The ClassDojo Services use AWS to host the infrastructure. AWS undergoes strict ongoing security assessments from external audit firms to ensure compliance with security standards, including ISO 27001, SOC 2, PCI DSS Level 1, and FISMA. See [https://aws.amazon.com/compliance/programs/](https://aws.amazon.com/compliance/programs/) for more details.
 
-Network access to the ClassDojo Services infrastructure is highly restricted. AWS hosted infrastructure resides in a dedicated Virtual Private Cloud (VPC) which is designed to ensure that only authorized traffic over approved ports is allowed. We use ThreatStack to monitor for suspicious activity.
+Network access to the ClassDojo Services infrastructure is highly restricted. AWS-hosted infrastructure resides in a dedicated Virtual Private Cloud (VPC) which is designed to ensure that only authorized traffic over approved ports is allowed. We use ThreatStack to monitor for suspicious activity.
 
 ### Patching
 
@@ -46,9 +46,9 @@ We use automated processes to regularly install security updates on the infrastr
 - AWS EC2:** All EC2 instances are monitored by ThreatStack and AWS inspector and updates are applied in a timely fashion
 - Classdojo Application:** Monitored by Snyk.io and Github for vulnerabilities and they are updated in a timely fashion
 
-### Backups and Availability Control
+## Backups and Availability Control
 
-We have a data backup and recovery capability that is designed to provide a timely restoration of the ClassDojo Services, with minimal data loss, in the case of catastrophic failure. These backups are encrypted and stored in multiple availability zones. Additional technical and organizational measures to ensure that Student Data are protected against accidental destruction or loss (physical/logical) include:
+We have a data backup and recovery capability that is designed to provide timely restoration of the ClassDojo Services, with minimal data loss, in the case of catastrophic failure. These backups are encrypted and stored in multiple availability zones. Additional technical and organizational measures to ensure that Student Data are protected against accidental destruction or loss (physical/logical) include:
 
 - Uninterruptible power supply (UPS);
 - Remote storage; and
@@ -56,9 +56,9 @@ We have a data backup and recovery capability that is designed to provide a time
 
 *Note: Student Data is stored at our Service Provider - currently AWS - and the above applies to their technical and organizational measures as well as any other relevant [Service Providers](https://www.classdojo.com/third-party-service-providers/), such as MongoDB. In addition, we have a disaster recovery plan in place.*
 
-## Physical Security
+# Physical Security
 
-### Physical Access Controls
+## Physical Access Controls
 
 Technical and organizational measures to prevent unauthorized persons from gaining access to the data processing systems available in premises and facilities (including databases, application servers and related hardware), where Student Data are Processed\*, include:
 
@@ -71,7 +71,7 @@ Technical and organizational measures to prevent unauthorized persons from gaini
 
 *Note: The ClassDojo Services are currently hosted in AWS and Student Data is stored at our Service Provider - currently AWS – which employs industry- leading physical security measures to protect their data centers and the above applies to their technical and organizational measures. These security features are regularly audited by third ­party auditors. You can learn more about AWS&#39; physical security [here.](https://aws.amazon.com/compliance/data-center/controls/) We also utilize MongoDB. You can learn more about Mongo DB&#39;s security [here](https://www.mongodb.com/cloud/atlas/security). In addition, we secure decentralized data processing equipment and personal computers.*
 
-### Virtual Access Control
+## Virtual Access Control
 
 Technical and organizational measures to prevent data processing systems used for Student Data from being used by unauthorized persons include:
 
@@ -79,7 +79,7 @@ Technical and organizational measures to prevent data processing systems used fo
 - ID/password security procedures (special characters, minimum length, change of password); and
 - Encryption of archived data media.
 
-### Data Access Control
+## Data Access Control
 
 Access to the ClassDojo Services infrastructure is highly restricted. We limit access to individuals who need access to do their jobs such as engineers, data scientists, product managers, and support personnel. All access to our infrastructure is logged. All access to our infrastructure requires the use of strong passwords and multi­factor authentication.
 
@@ -95,7 +95,7 @@ Technical and organizational measures to ensure that persons entitled to use a d
 - Change procedure;
 - Deletion procedure;
 
-### Disclosure Control
+## Disclosure Control
 
 Technical and organizational measures to ensure that Student Data cannot be read, copied, modified or deleted without authorization during electronic transmission, transport or storage on storage media (manual or electronic), and that it can be verified to which companies or other legal entities Student Data are disclosed, include:
 
@@ -103,9 +103,9 @@ Technical and organizational measures to ensure that Student Data cannot be read
 - Logging; and
 - Transport security.
 
-### Entry Control
+## Entry Control
 
-Technical and organizational measures to monitor whether Student Data have been entered, changed or removed (deleted), and by whom, from data processing systems, include:
+Technical and organizational measures to monitor whether Student Data have been entered, changed, or removed (deleted), and by whom, from data processing systems include:
 
 - Logging and reporting systems; and
 - Audit trails and documentation.
