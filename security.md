@@ -1,111 +1,211 @@
-# ClassDojo Security Whitepaper
+# ClassDojo Security Overview
 
-ClassDojo, operates the services offered on classdojo.com (the &quot;ClassDojo Website&quot;), including the ClassDojo platform (the &quot;ClassDojo Platform&quot;), and any associated mobile applications (the &quot;ClassDojo Apps&quot;) or products and services that Company may provide now or in the future (collectively, the &quot;Service&quot;).
+At ClassDojo, safeguarding data privacy and security is a core commitment. From day one, we design our products with security and privacy at the forefront, ensuring our safeguards evolve alongside the latest industry standards.  Our [Privacy Policy](https://www.classdojo.com/privacy/) and [Student Data Privacy Addendum](https://static.classdojo.com/docs/DPA/classdojo-student-data-dpa.pdf) solidify the commitments that ClassDojo and schools make to each other, including our security and privacy commitments. 
 
-Protecting data privacy and security is a top priority for ClassDojo. Our [Privacy Policy](https://www.classdojo.com/privacy/) and [Student Data Privacy Addendum](https://static.classdojo.com/docs/DPA/classdojo-student-data-dpa.pdf) solidify the commitments that ClassDojo and schools make to each other, including our security and privacy commitments. Capitalized terms not defined in this document, such as &quot;Student Data&quot;, are defined in our Student Data Privacy Addendum. We regularly evaluate our policies and practices to improve security and to keep up with the latest practices of the security industry.
-
-This document is designed to provide technical readers, such as Chief Information Officers or Chief Technology Officers at school districts, additional clarity and specifics about our security commitments. While this document is written for technology experts who often play a key role in assessing our policies, we recognize that data security is just as important to families, teachers, and students as it is to school officials. If you would like to find out more and access materials that are written to help you digest the more technical information here, please visit our [Privacy Center](https://www.classdojo.com/privacycenter/). Additionally, should you have security or privacy questions, please reach out to our team at privacy@classdojo.com
+This Security Overview provides a high-level snapshot of ClassDojo’s information security program. While this page is written for technology experts who often play a key role in assessing our policies, we recognize that data security is just as important to families, teachers, and students as it is to school officials. If you would like to find out more and access materials that are written to help you digest the more technical information here, please visit our [Privacy Center](https://www.classdojo.com/privacycenter/) or [Security Portal](www.security.classdojo.com). 
+ 
+ClassDojo operates the services offered on classdojo.com (the &quot;ClassDojo Website&quot;), including the ClassDojo platform (the &quot;ClassDojo Platform&quot;), and any associated mobile applications (the &quot;ClassDojo Apps&quot;) or products and services that Company may provide now or in the future (collectively, the &quot;Service&quot;). Capitalized terms not defined in this document, such as &quot;Student Data&quot;, are defined in our Student Data Privacy Addendum. We regularly evaluate our policies and practices to improve security and to keep up with the latest practices of the security industry. Should you have security or privacy questions, please reach out to our team at privacy@classdojo.com
 
 * * *
 
 ## Quick Reference
 
-- [Infrastructure Security](#infrastructure-security)
-  - [Encryption at Rest and In Transit](#encryption-at-rest-and-in-transit)
-  - [Network Security](#network-security)
-  - [Patching](#patching)
-  - [Backups and Availability Control](#backups-and-availability-control)
+- [Audits and Certifications](#audits-and-certifications)
 - [Physical Security](#physical-security)
-  - [Physical Access Controls](#physical-access-controls)
-  - [Virtual Access Control](#virtual-access-control)
-  - [Data Access Control](#data-access-control)
-  - [Disclosure Control](#disclosure-control)
-  - [Entry Control](#entry-control)
+- [Infrastructure Security](#infrastructure-security)
+  - [Corporate Security](#corporate-security)
+  - [Cloud Security](#cloud-security)
+- [Access Control and Monitoring](#access-control-and-monitoring)
+  - [Access Monitoring](#access-monitoring)
+  - [Audit Logging](#audit-logging)
+- [Incident Response and Vulnerability Management](#incident-response-and-vulnerability-management)
+  - [Incident Response](#incident-response)
+  - [Vulnerability & Patch Management](#vulnerability--patch-management)
+- [Product Security](#product-security)
+  - [Code Analysis](#code-analysis)
+  - [Credential Management](#credential-management)
+  - [Responsible Disclosure](#responsible-disclosure)
+  - [Secure Development Training](#secure-development-training)
+  - [Software Development Lifecycle](#software-development-lifecycle)
+- [IT Governance](#it-governance)
+- [Disaster Recovery and Business Continuity (BC/DR)](#disaster-recovery-and-business-continuity-bcdr)
+  - [Backups and Availability Control](#backups-and-availability-control)
+- [Control of Instructions and Data Segregation Security](#control-of-instructions-and-data-segregation-security)
+  - [Role-Based Access Control (RBAC)](#role-based-access-control-rbac)
+  - [User Roles & Logical Access Controls](#user-roles--logical-access-controls)
+  - [Data Security](#data-security)
+- [Summary](#summary)
+
+
+
+# ClassDojo Security Overview
+
+## Audits and Certifications
+The ClassDojo platform is undergoing SOC2 certification in 2025.
+
+Our security program is built on the **NIST CyberSecurity Framework**, a widely adopted standard for organizing and measuring security programs. This framework is complemented by compliance with various privacy regulations such as [GDPR, COPPA, and FERPA](https://www.classdojo.com/privacycenter), modern engineering practices, and continuous innovation in security.
+
+---
+
+## Physical Security
+Student Data is stored in the United States with our service provider, Amazon Web Services (AWS) (us-east-1).  
+
+AWS and Google maintain physical security at their data centers:
+- [AWS Data Center Controls](https://aws.amazon.com/compliance/data-center/controls/)
+- [Google Data Security](https://www.google.com/about/datacenters/data-security/)
+
+---
 
 ## Infrastructure Security
 
-### Encryption at Rest and In Transit
+### **Corporate Security**
+#### **Multi-Factor Authentication**
+ClassDojo employees use two-factor authentication (2FA) for accessing company resources via Google.
 
-Access to the ClassDojo Service occurs via encrypted connections
+#### **Disk Encryption**
+We use FileVault to encrypt data on all corporate laptops.
 
-(HTTP over TLS, also known as HTTPS) which encrypt all data before it leaves the ClassDojo Service&#39;s servers and protects that data as it transits over the internet.All of our Services are in Amazon Web Services (AWS) and served from either Cloudfront or Elastic Load Balancer (ELB). We use HTTP Strict Transport Security to ensure that pages are loaded over HTTPS connections and our TLS configuration receives an A+ from [Qualys SSL Labs](https://www.ssllabs.com/ssltest/analyze.html?d=classdojo.com&latest).
+#### **Endpoint Detection & Response**
+SentinelOne is used to protect laptops from malware and cyber threats.
 
-Student Data is stored at our Service Provider, AWS, and the following applies to their technical and organizational measures. In addition, we secure decentralized data processing equipment and personal computers. All personally identifiable information is encrypted at rest using modern encryption algorithms. In AWS S3, we use AES­256 with AWS managed keys, in Aurora (MySql) we use AES-256 with customer managed keys and in Redshift we use AES-256 with AWS managed keys. Additionally, we use MongoDB with AES-256 with keys managed by AWS For more information on these vendors please see our [Third Party Service Providers chart](http://www.classdojo.com/third-party-service-providers/).
+#### **Mobile Device Management**
+We use Rippling MDM for managing and securing corporate laptops.
 
-### Network Security
+#### **Threat Detection**
+A third-party security monitoring firm tracks security threats and events on laptops.
 
-The ClassDojo Services use AWS, to host the infrastructure. AWS undergoes strict ongoing security assessments from external audit firms to ensure compliance with security standards including ISO 27001, SOC 2, PCI DSS Level 1, and FISMA. See [https://aws.amazon.com/compliance/programs/](https://aws.amazon.com/compliance/programs/) for more details.
+---
 
-Network access to the ClassDojo Services infrastructure is highly restricted. AWS hosted infrastructure resides in a dedicated Virtual Private Cloud (VPC) which is designed to ensure that only authorized traffic over approved ports is allowed. We use ThreatStack to monitor for suspicious activity.
+## Cloud Security
 
-### Patching
+### **Cloud Workload Protection**
+We monitor cloud workloads for security issues using Orca, Prowler, and other modern security tools.
 
-We use automated processes to regularly install security updates on the infrastructure that powers the ClassDojo Services, these processes include:
+### **Remote Access**
+- Network access is strictly limited to authorized staff.
+- VPN access is required for administrative access to AWS-hosted servers
 
-- AWS Managed Services (e.g., Relational Database Service):** AWS proactively notifies our engineering team when updates are available and we apply them in a timely fashion.
-- AWS EC2:** All EC2 instances are monitored by ThreatStack and AWS inspector and updates are applied in a timely fashion
-- Classdojo Application:** Monitored by Snyk.io and Github for vulnerabilities and they are updated in a timely fashion
+### **Encryption at Rest**
+- AWS S3 AES-256 with AWS-managed keys  
+- Aurora (MySQL): AES-256 with customer-managed keys  
+- Redshift AES-256 with AWS-managed keys  
+- MongoDB AES-256 with keys managed by MongoDB  
+- All ClassDojo laptops are encrypted by default managed by our IT and Security team.
+
+### **Encryption in Transit**
+- All ClassDojo data is encrypted in transit using TLS 1.2.  
+- Our services are served via AWS Cloudfront or Elastic Load Balancers (ELB).  
+- HTTP Strict Transport Security (HSTS is enforced for secure connections.
+
+### **Firewall**
+We use AWS Security Groups to limit network access.
+
+### **IDS/IPS (Intrusion Detection & Prevention)**
+AWS GuardDuty is enabled in all AWS environments and monitored by third-party Managed Detection and Response (MDR) firms.
+
+### **Security Information and Event Management (SIEM)**
+All security-related logs from cloud, endpoints, and other systems are sent to a **third-party MDR vendor for analysis**.
+
+### **Traffic Filtering**
+We leverage AWS WAF and HA-Proxy for traffic filtering and shaping.
+
+---
+
+## Access Control and Monitoring
+
+### **Access Monitoring**
+- Access is restricted to engineers, data scientists, product managers, and support personnel**.  
+- Permissions are reviewed bi-annually and updated automatically when roles change.  
+- High-priority system access requires managerial approval.
+
+### Audit Logging
+- Datadog provides real-time monitoring through logs and alerts.  
+- Alerts escalate to on-call rotation engineers via PagerDuty.
+
+---
+
+## Incident Response and Vulnerability Management
+
+### Incident Response
+- 24/7 security monitoring is performed in collaboration with Managed Detection & Response (MDR) firms.
+- Custom logging, AWS Cloudwatch, and Guard Duty are used for tracking security events.
+- A structured incident response plan guides security investigations.
+
+### Vulnerability & Patch Management
+- Security tools continuously monitor for vulnerabilities and missing patches.  
+- Security patches are prioritized and applied in a timely manner.  
+- Automated updates are deployed when possible.
+
+---
+
+## Product Security
+
+### Code Analysis
+- All source code is scanned for vulnerabilities upon commit and during development.
+- Scanning includes:
+  - Static code analysis
+  - Infrastructure-as-Code vulnerability detection
+  - Source composition analysis
+
+### Credential Management
+- Secrets are securely stored in Vault, Jenkins Secrets, or GitHub Encrypted Secrets.
+- User credentials are stored using a one-way salted hash, never logged or accessible by staff.
+
+### Responsible Disclosure
+We encourage security researchers to report bugs via our [bug bounty program](mailto:security@classdojo.com).
+
+### Secure Development Training
+- Engineers undergo annual security training, covering OWASP Top 10 vulnerabilities.
+
+### Software Development Lifecycle
+ClassDojo follows a secure software development lifecycle (SDLC), which includes:
+- Tagging and tracking engineering work in Asana  
+- Peer code reviews  
+- Automated security testing before deployment  
+- Continuous monitoring and rollback mechanisms  
+- Canary builds for controlled feature rollouts  
+- Production monitoring for performance and security  
+
+---
+
+## IT Governance
+
+ClassDojo aligns IT security with compliance efforts through:
+- Strong security policies  
+- Regular risk assessments  
+- Quarterly Executive Security & Privacy Governance meetings  
+- A risk register for tracking and managing risks  
+
+---
+
+## Disaster Recovery and Business Continuity (BC/DR)
 
 ### Backups and Availability Control
+- Daily encrypted backups stored in multiple AWS availability zones.  
+- Multi-factor authentication (MFA) required for backup access.  
+- Routine backup testing ensures data integrity before restoration.
 
-We have a data backup and recovery capability that is designed to provide a timely restoration of the ClassDojo Services, with minimal data loss, in the case of catastrophic failure. These backups are encrypted and stored in multiple availability zones. Additional technical and organizational measures to ensure that Student Data are protected against accidental destruction or loss (physical/logical) include:
+---
 
-- Uninterruptible power supply (UPS);
-- Remote storage; and
-- Firewall systems.
+## Control of Instructions and Data Segregation Security
 
-*Note: Student Data is stored at our Service Provider - currently AWS - and the above applies to their technical and organizational measures as well as any other relevant [Service Providers](https://www.classdojo.com/third-party-service-providers/), such as MongoDB. In addition, we have a disaster recovery plan in place.*
+### Role-Based Access Control (RBAC)
+- Access is strictly limited based on role (e.g., engineers, product managers, support staff).  
+- All infrastructure access is logged and monitored.  
+- Third-party security monitoring ensures 24/7 detection and response.
 
-## Physical Security
+### User Roles & Logical Access Controls
+- Application roles include Student, Teacher, Parent, School Leader.  
+- Logical security controls manage permissions based on user roles.
 
-### Physical Access Controls
+### Data Security
+- ClassDojo maintains Records of Processing Activities (GDPR requirement).
+- A public version of our data classification is available here:  
+  - [ClassDojo Transparency Page](https://www.classdojo.com/transparency/)
 
-Technical and organizational measures to prevent unauthorized persons from gaining access to the data processing systems available in premises and facilities (including databases, application servers and related hardware), where Student Data are Processed\*, include:
+---
 
-- Establishing security areas, restriction of access paths;
-- Establishing access authorizations for employees and third parties;
-- Access control system (ID reader, magnetic card, chip card);
-- Key management, card-keys procedures;
-- Door locking (electric door openers etc.);and
-- Surveillance facilities, video/CCTV monitor, alarm system.
+## Summary
+This Security Overview provides a high-level summary of ClassDojo’s security controls.  
 
-*Note: The ClassDojo Services are currently hosted in AWS and Student Data is stored at our Service Provider - currently AWS – which employs industry- leading physical security measures to protect their data centers and the above applies to their technical and organizational measures. These security features are regularly audited by third ­party auditors. You can learn more about AWS&#39; physical security [here.](https://aws.amazon.com/compliance/data-center/controls/) We also utilize MongoDB. You can learn more about Mongo DB&#39;s security [here](https://www.mongodb.com/cloud/atlas/security). In addition, we secure decentralized data processing equipment and personal computers.*
-
-### Virtual Access Control
-
-Technical and organizational measures to prevent data processing systems used for Student Data from being used by unauthorized persons include:
-
-- User identification and authentication procedures;
-- ID/password security procedures (special characters, minimum length, change of password); and
-- Encryption of archived data media.
-
-### Data Access Control
-
-Access to the ClassDojo Services infrastructure is highly restricted. We limit access to individuals who need access to do their jobs such as engineers, data scientists, product managers, and support personnel. All access to our infrastructure is logged. All access to our infrastructure requires the use of strong passwords and multi­factor authentication.
-
-Technical and organizational measures to ensure that persons entitled to use a data processing system gain access only to such Student Data in accordance with their access rights, and that Student Data cannot be read, copied, modified or deleted without authorization, include:
-
-- Internal policies and procedures;
-- Control authorization schemes;
-- Differentiated access rights (profiles, roles, transactions and objects);
-- Monitoring and logging of accesses;
-- Disciplinary action against employees who access personally identifiable information without authorization;
-- Reports of access;
-- Access procedure;
-- Change procedure;
-- Deletion procedure;
-
-### Disclosure Control
-
-Technical and organizational measures to ensure that Student Data cannot be read, copied, modified or deleted without authorization during electronic transmission, transport or storage on storage media (manual or electronic), and that it can be verified to which companies or other legal entities Student Data are disclosed, include:
-
-- Encryption/tunneling;
-- Logging; and
-- Transport security.
-
-### Entry Control
-
-Technical and organizational measures to monitor whether Student Data have been entered, changed or removed (deleted), and by whom, from data processing systems, include:
-
-- Logging and reporting systems; and
-- Audit trails and documentation.
+For detailed policies, compliance documentation, and real-time security updates, visit our [Security Portal](#).  
