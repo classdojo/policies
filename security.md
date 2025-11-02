@@ -2,7 +2,7 @@
 
 At ClassDojo, safeguarding data privacy and security is a core commitment. From day one, we design our products with security and privacy at the forefront, ensuring our safeguards evolve alongside the latest industry standards.  Our [Privacy Policy](https://www.classdojo.com/privacy/) and [Student Data Privacy Addendum](https://static.classdojo.com/docs/DPA/classdojo-student-data-dpa.pdf) solidify the commitments that ClassDojo and schools make to each other, including our security and privacy commitments. 
 
-This Security Overview provides a high-level snapshot of ClassDojo’s information security program. While this page is written for technology experts who often play a key role in assessing our policies, we recognize that data security is just as important to families, teachers, and students as it is to school officials. If you would like to find out more and access materials that are written to help you digest the more technical information here, please visit our [Privacy Center](https://www.classdojo.com/privacycenter/) or [Security Portal](www.security.classdojo.com). 
+This Security Overview provides a high-level snapshot of ClassDojo’s information security program. While this page is written for technology experts who often play a key role in assessing our policies, we recognize that data security is just as important to families, teachers, and students as it is to school officials. If you would like to find out more and access materials that are written to help you digest the more technical information here, please visit our [Privacy & Security Portal](https://www.classdojo.com/privacy-and-security/). 
  
 ClassDojo operates the services offered on classdojo.com (the &quot;ClassDojo Website&quot;), including the ClassDojo platform (the &quot;ClassDojo Platform&quot;), and any associated mobile applications (the &quot;ClassDojo Apps&quot;) or products and services that Company may provide now or in the future (collectively, the &quot;Service&quot;). Capitalized terms not defined in this document, such as &quot;Student Data&quot;, are defined in our Student Data Privacy Addendum. We regularly evaluate our policies and practices to improve security and to keep up with the latest practices of the security industry. Should you have security or privacy questions, please reach out to our team at privacy@classdojo.com
 
@@ -208,4 +208,4 @@ ClassDojo aligns IT security with compliance efforts through:
 ## Summary
 This Security Overview provides a high-level summary of ClassDojo’s security controls.  
 
-For detailed policies, compliance documentation, and real-time security updates, visit our [Security Portal](#).  
+For detailed policies, compliance documentation, and real-time security updates, visit our [Security Portal](https://www.classdojo.com/privacy-and-security/).  
